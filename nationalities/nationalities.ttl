@@ -64,6 +64,7 @@
 
 <https://resources.swissartresearch.net/vocab/nationalities/B707EF14-9339-4DC3-A32C-A063666BF64E/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Russian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B707EF14-9339-4DC3-A32C-A063666BF64E/en/form/B707EF14/ms> .
 
@@ -75,6 +76,7 @@
 
 <https://resources.swissartresearch.net/vocab/nationalities/5DBBA5A5-2E4B-4888-A9A9-5AB5C03C2FAB/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Tschechischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/5DBBA5A5-2E4B-4888-A9A9-5AB5C03C2FAB/de/form/5DBBA5A5/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/5DBBA5A5-2E4B-4888-A9A9-5AB5C03C2FAB/de/form/5DBBA5A5/ns> , <https://resources.swissartresearch.net/vocab/nationalities/5DBBA5A5-2E4B-4888-A9A9-5AB5C03C2FAB/de/form/5DBBA5A5/fs> .
@@ -113,6 +115,7 @@ sari:F99920C5-0A18-42C5-BBD2-092FD399BDF8
 
 <https://resources.swissartresearch.net/vocab/nationalities/5C94CB41-7A6F-45C5-B7CA-036AD42935F5/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Kuwaitischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/5C94CB41-7A6F-45C5-B7CA-036AD42935F5/de/form/5C94CB41/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/5C94CB41-7A6F-45C5-B7CA-036AD42935F5/de/form/5C94CB41/ns> , <https://resources.swissartresearch.net/vocab/nationalities/5C94CB41-7A6F-45C5-B7CA-036AD42935F5/de/form/5C94CB41/fs> .
@@ -135,6 +138,7 @@ sari:F99920C5-0A18-42C5-BBD2-092FD399BDF8
 
 <https://resources.swissartresearch.net/vocab/nationalities/795C0536-C777-49BA-B5ED-470A13310C31/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Bavarian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/795C0536-C777-49BA-B5ED-470A13310C31/en/form/795C0536/ms> .
 
@@ -154,6 +158,7 @@ sari:1D094F0D-EDD4-46EA-9E7C-57DAB517F61C
 
 <https://resources.swissartresearch.net/vocab/nationalities/9EFE1F96-9ACA-49B5-8DC6-BABC22A7DD26/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Brasilian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/9EFE1F96-9ACA-49B5-8DC6-BABC22A7DD26/en/form/9EFE1F96/ms> .
 
@@ -167,6 +172,7 @@ sari:1D094F0D-EDD4-46EA-9E7C-57DAB517F61C
 
 <https://resources.swissartresearch.net/vocab/nationalities/7939E3D5-78A3-4E4B-B235-F0C8944F7974/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Luxemburgischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7939E3D5-78A3-4E4B-B235-F0C8944F7974/de/form/7939E3D5/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/7939E3D5-78A3-4E4B-B235-F0C8944F7974/de/form/7939E3D5/ns> , <https://resources.swissartresearch.net/vocab/nationalities/7939E3D5-78A3-4E4B-B235-F0C8944F7974/de/form/7939E3D5/fs> .
@@ -219,6 +225,7 @@ sari:889AF460-0AA9-45AF-87E9-A66A9C057454
 
 <https://resources.swissartresearch.net/vocab/nationalities/D055961A-4296-4603-8C36-1EB1F35D3412/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Belarussian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/D055961A-4296-4603-8C36-1EB1F35D3412/en/form/D055961A/ms> .
 
@@ -232,6 +239,7 @@ sari_terms:neuter  a  lexinfo:neuter .
 
 <https://resources.swissartresearch.net/vocab/nationalities/30432D0B-4346-4957-B45D-B51214474B44/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Chinese"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/30432D0B-4346-4957-B45D-B51214474B44/en/form/30432D0B/ms> .
 
@@ -267,6 +275,7 @@ sari_terms:neuter  a  lexinfo:neuter .
 
 <https://resources.swissartresearch.net/vocab/nationalities/D62663DF-9B0A-46D8-ABFD-29145CE0664E/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Irakischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/D62663DF-9B0A-46D8-ABFD-29145CE0664E/de/form/D62663DF/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/D62663DF-9B0A-46D8-ABFD-29145CE0664E/de/form/D62663DF/ns> , <https://resources.swissartresearch.net/vocab/nationalities/D62663DF-9B0A-46D8-ABFD-29145CE0664E/de/form/D62663DF/fs> .
@@ -297,6 +306,7 @@ sari:35A9AB06-3E91-41F3-ACD8-F30E4A240154
 
 <https://resources.swissartresearch.net/vocab/nationalities/AB6E9A26-5C44-4B14-993F-C24A003E9881/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Dänischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/AB6E9A26-5C44-4B14-993F-C24A003E9881/de/form/AB6E9A26/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/AB6E9A26-5C44-4B14-993F-C24A003E9881/de/form/AB6E9A26/ns> , <https://resources.swissartresearch.net/vocab/nationalities/AB6E9A26-5C44-4B14-993F-C24A003E9881/de/form/AB6E9A26/fs> .
@@ -327,6 +337,7 @@ sari:30432D0B-4346-4957-B45D-B51214474B44
 
 <https://resources.swissartresearch.net/vocab/nationalities/889AF460-0AA9-45AF-87E9-A66A9C057454/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Tibetischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/889AF460-0AA9-45AF-87E9-A66A9C057454/de/form/889AF460/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/889AF460-0AA9-45AF-87E9-A66A9C057454/de/form/889AF460/ns> , <https://resources.swissartresearch.net/vocab/nationalities/889AF460-0AA9-45AF-87E9-A66A9C057454/de/form/889AF460/fs> .
@@ -339,6 +350,7 @@ sari:30432D0B-4346-4957-B45D-B51214474B44
 
 <https://resources.swissartresearch.net/vocab/nationalities/B700ED79-B273-4B2A-812C-F55A1D6A1598/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Argentinischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B700ED79-B273-4B2A-812C-F55A1D6A1598/de/form/B700ED79/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/B700ED79-B273-4B2A-812C-F55A1D6A1598/de/form/B700ED79/ns> , <https://resources.swissartresearch.net/vocab/nationalities/B700ED79-B273-4B2A-812C-F55A1D6A1598/de/form/B700ED79/fs> .
@@ -369,17 +381,20 @@ sari:EE628136-8618-4853-9A41-BD967D660C89
 
 <https://resources.swissartresearch.net/vocab/nationalities/EF2F2585-4F09-4A6E-B3DF-460E3EA348C6/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Japanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EF2F2585-4F09-4A6E-B3DF-460E3EA348C6/de/form/EF2F2585/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/EF2F2585-4F09-4A6E-B3DF-460E3EA348C6/de/form/EF2F2585/ns> , <https://resources.swissartresearch.net/vocab/nationalities/EF2F2585-4F09-4A6E-B3DF-460E3EA348C6/de/form/EF2F2585/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/CB156B20-E5D2-455D-B48D-CF693ECF7C19/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Belgian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/CB156B20-E5D2-455D-B48D-CF693ECF7C19/en/form/CB156B20/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/E2A0710C-E2D6-4F92-B0CF-9AFF933737B6/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Spanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/E2A0710C-E2D6-4F92-B0CF-9AFF933737B6/de/form/E2A0710C/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/E2A0710C-E2D6-4F92-B0CF-9AFF933737B6/de/form/E2A0710C/ns> , <https://resources.swissartresearch.net/vocab/nationalities/E2A0710C-E2D6-4F92-B0CF-9AFF933737B6/de/form/E2A0710C/fs> .
@@ -388,6 +403,7 @@ sari_terms:singular  a  lexinfo:singular .
 
 <https://resources.swissartresearch.net/vocab/nationalities/F99920C5-0A18-42C5-BBD2-092FD399BDF8/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Algerischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/F99920C5-0A18-42C5-BBD2-092FD399BDF8/de/form/F99920C5/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/F99920C5-0A18-42C5-BBD2-092FD399BDF8/de/form/F99920C5/ns> , <https://resources.swissartresearch.net/vocab/nationalities/F99920C5-0A18-42C5-BBD2-092FD399BDF8/de/form/F99920C5/fs> .
@@ -412,6 +428,7 @@ sari_terms:singular  a  lexinfo:singular .
 
 <https://resources.swissartresearch.net/vocab/nationalities/348BFF3D-C0A1-4115-81E8-6FA3255EAF8C/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Indischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/348BFF3D-C0A1-4115-81E8-6FA3255EAF8C/de/form/348BFF3D/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/348BFF3D-C0A1-4115-81E8-6FA3255EAF8C/de/form/348BFF3D/ns> , <https://resources.swissartresearch.net/vocab/nationalities/348BFF3D-C0A1-4115-81E8-6FA3255EAF8C/de/form/348BFF3D/fs> .
@@ -436,17 +453,20 @@ sari_terms:singular  a  lexinfo:singular .
 
 <https://resources.swissartresearch.net/vocab/nationalities/F8779DDC-52F5-494C-A8C3-A9ADF4CD1746/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Filipino"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/F8779DDC-52F5-494C-A8C3-A9ADF4CD1746/en/form/F8779DDC/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/08B6F454-B038-4A57-8277-52DDF9062308/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Tschechoslowakischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/08B6F454-B038-4A57-8277-52DDF9062308/de/form/08B6F454/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/08B6F454-B038-4A57-8277-52DDF9062308/de/form/08B6F454/ns> , <https://resources.swissartresearch.net/vocab/nationalities/08B6F454-B038-4A57-8277-52DDF9062308/de/form/08B6F454/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/67707A77-B622-4111-9801-D38E1EA875F0/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Israelischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/67707A77-B622-4111-9801-D38E1EA875F0/de/form/67707A77/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/67707A77-B622-4111-9801-D38E1EA875F0/de/form/67707A77/ns> , <https://resources.swissartresearch.net/vocab/nationalities/67707A77-B622-4111-9801-D38E1EA875F0/de/form/67707A77/fs> .
@@ -483,6 +503,7 @@ sari_terms:singular  a  lexinfo:singular .
 
 <https://resources.swissartresearch.net/vocab/nationalities/4CE2A01D-62F5-41A6-8D5E-212B01CFA5C0/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Australian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/4CE2A01D-62F5-41A6-8D5E-212B01CFA5C0/en/form/4CE2A01D/ms> .
 
@@ -520,6 +541,7 @@ sari:8E635BEB-717C-41BE-A00F-7A0ACA33D506
 
 <https://resources.swissartresearch.net/vocab/nationalities/0C12C8F1-E226-4189-96CC-8EDC94521D87/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Österreichischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/0C12C8F1-E226-4189-96CC-8EDC94521D87/de/form/0C12C8F1/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/0C12C8F1-E226-4189-96CC-8EDC94521D87/de/form/0C12C8F1/ns> , <https://resources.swissartresearch.net/vocab/nationalities/0C12C8F1-E226-4189-96CC-8EDC94521D87/de/form/0C12C8F1/fs> .
@@ -534,6 +556,7 @@ sari:CFB7173B-DC1B-416E-9BA2-018E687B82B8
 
 <https://resources.swissartresearch.net/vocab/nationalities/CFB7173B-DC1B-416E-9BA2-018E687B82B8/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Canadian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/CFB7173B-DC1B-416E-9BA2-018E687B82B8/en/form/CFB7173B/ms> .
 
@@ -571,6 +594,7 @@ sari:CFB7173B-DC1B-416E-9BA2-018E687B82B8
 
 <https://resources.swissartresearch.net/vocab/nationalities/A04B3FA0-C02E-48D6-8592-6C6EA4A391F2/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Niederländischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/A04B3FA0-C02E-48D6-8592-6C6EA4A391F2/de/form/A04B3FA0/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/A04B3FA0-C02E-48D6-8592-6C6EA4A391F2/de/form/A04B3FA0/ns> , <https://resources.swissartresearch.net/vocab/nationalities/A04B3FA0-C02E-48D6-8592-6C6EA4A391F2/de/form/A04B3FA0/fs> .
@@ -583,11 +607,13 @@ sari:CFB7173B-DC1B-416E-9BA2-018E687B82B8
 
 <https://resources.swissartresearch.net/vocab/nationalities/8E635BEB-717C-41BE-A00F-7A0ACA33D506/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "German"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/8E635BEB-717C-41BE-A00F-7A0ACA33D506/en/form/8E635BEB/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/E0C6F09E-5B9B-4F0C-9D21-60F661CDC1A4/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Turkish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/E0C6F09E-5B9B-4F0C-9D21-60F661CDC1A4/en/form/E0C6F09E/ms> .
 
@@ -611,6 +637,7 @@ sari:CFB7173B-DC1B-416E-9BA2-018E687B82B8
 
 <https://resources.swissartresearch.net/vocab/nationalities/1976212E-AA08-458B-845A-6B77BD83BD73/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Soviet"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/1976212E-AA08-458B-845A-6B77BD83BD73/en/form/1976212E/ms> .
 
@@ -652,12 +679,14 @@ sari:4F06C58A-953F-4C68-AA60-A6DDA836ADE1
 
 <https://resources.swissartresearch.net/vocab/nationalities/7786F6A1-58FE-4DBB-8A5D-52DC79794D94/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Venezuelanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7786F6A1-58FE-4DBB-8A5D-52DC79794D94/de/form/7786F6A1/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/7786F6A1-58FE-4DBB-8A5D-52DC79794D94/de/form/7786F6A1/ns> , <https://resources.swissartresearch.net/vocab/nationalities/7786F6A1-58FE-4DBB-8A5D-52DC79794D94/de/form/7786F6A1/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/079ABCD9-5F23-4E01-A926-2E29106D6B33/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Polish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/079ABCD9-5F23-4E01-A926-2E29106D6B33/en/form/079ABCD9/ms> .
 
@@ -677,6 +706,7 @@ sari:7B7A5B54-7D07-4968-8473-EB0227FF9DCB
 
 <https://resources.swissartresearch.net/vocab/nationalities/1D094F0D-EDD4-46EA-9E7C-57DAB517F61C/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Colombian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/1D094F0D-EDD4-46EA-9E7C-57DAB517F61C/en/form/1D094F0D/ms> .
 
@@ -688,6 +718,7 @@ sari:7B7A5B54-7D07-4968-8473-EB0227FF9DCB
 
 <https://resources.swissartresearch.net/vocab/nationalities/34D66923-DD69-445C-9BC5-4244F54016A4/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Latvian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/34D66923-DD69-445C-9BC5-4244F54016A4/en/form/34D66923/ms> .
 
@@ -705,11 +736,13 @@ sari:7B7A5B54-7D07-4968-8473-EB0227FF9DCB
 
 <https://resources.swissartresearch.net/vocab/nationalities/E4EB5D22-04D7-4F1D-88B0-020F276EA654/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Chilean"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/E4EB5D22-04D7-4F1D-88B0-020F276EA654/en/form/E4EB5D22/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/CAC19E49-3E2C-4010-A60B-69DAD36FFE23/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Australian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/CAC19E49-3E2C-4010-A60B-69DAD36FFE23/en/form/CAC19E49/ms> .
 
@@ -723,6 +756,7 @@ sari:5A54039B-6695-47A9-9DC7-16F2B85F0F59
 
 <https://resources.swissartresearch.net/vocab/nationalities/5308D042-D543-498E-B955-2B913A447F1B/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Kroatischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/5308D042-D543-498E-B955-2B913A447F1B/de/form/5308D042/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/5308D042-D543-498E-B955-2B913A447F1B/de/form/5308D042/ns> , <https://resources.swissartresearch.net/vocab/nationalities/5308D042-D543-498E-B955-2B913A447F1B/de/form/5308D042/fs> .
@@ -759,6 +793,7 @@ sari:5A54039B-6695-47A9-9DC7-16F2B85F0F59
 
 <https://resources.swissartresearch.net/vocab/nationalities/53705562-D9D7-4D4E-81F5-1B52F60EED7C/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Preussischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/53705562-D9D7-4D4E-81F5-1B52F60EED7C/de/form/53705562/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/53705562-D9D7-4D4E-81F5-1B52F60EED7C/de/form/53705562/ns> , <https://resources.swissartresearch.net/vocab/nationalities/53705562-D9D7-4D4E-81F5-1B52F60EED7C/de/form/53705562/fs> .
@@ -785,6 +820,7 @@ sari:AAEF9D50-653F-46C0-B00B-41CAAFCE3492
 
 <https://resources.swissartresearch.net/vocab/nationalities/BA04A415-DA13-49CB-AEFA-17E2AB15BB9F/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Norwegian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/BA04A415-DA13-49CB-AEFA-17E2AB15BB9F/en/form/BA04A415/ms> .
 
@@ -796,6 +832,7 @@ sari:AAEF9D50-653F-46C0-B00B-41CAAFCE3492
 
 <https://resources.swissartresearch.net/vocab/nationalities/DE071BB8-F0A6-4CAC-B58C-96F70227D1F9/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Amerikanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/DE071BB8-F0A6-4CAC-B58C-96F70227D1F9/de/form/DE071BB8/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/DE071BB8-F0A6-4CAC-B58C-96F70227D1F9/de/form/DE071BB8/ns> , <https://resources.swissartresearch.net/vocab/nationalities/DE071BB8-F0A6-4CAC-B58C-96F70227D1F9/de/form/DE071BB8/fs> .
@@ -870,6 +907,7 @@ sari:7FE50602-E802-4418-B14E-012DD821A908
 
 <https://resources.swissartresearch.net/vocab/nationalities/4F06C58A-953F-4C68-AA60-A6DDA836ADE1/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Romanian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/4F06C58A-953F-4C68-AA60-A6DDA836ADE1/en/form/4F06C58A/ms> .
 
@@ -885,6 +923,7 @@ sari:7FE50602-E802-4418-B14E-012DD821A908
 
 <https://resources.swissartresearch.net/vocab/nationalities/B2BEF971-A2E9-4B26-9BE2-509BA06AE50D/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Mexikanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B2BEF971-A2E9-4B26-9BE2-509BA06AE50D/de/form/B2BEF971/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/B2BEF971-A2E9-4B26-9BE2-509BA06AE50D/de/form/B2BEF971/ns> , <https://resources.swissartresearch.net/vocab/nationalities/B2BEF971-A2E9-4B26-9BE2-509BA06AE50D/de/form/B2BEF971/fs> .
@@ -931,6 +970,7 @@ sari:B707EF14-9339-4DC3-A32C-A063666BF64E
 
 <https://resources.swissartresearch.net/vocab/nationalities/7FE50602-E802-4418-B14E-012DD821A908/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "French"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7FE50602-E802-4418-B14E-012DD821A908/en/form/7FE50602/ms> .
 
@@ -944,12 +984,14 @@ sari:D62663DF-9B0A-46D8-ABFD-29145CE0664E
 
 <https://resources.swissartresearch.net/vocab/nationalities/52EAFCB5-2059-48D4-9711-3BAA20040567/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "US-amerikanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/52EAFCB5-2059-48D4-9711-3BAA20040567/de/form/52EAFCB5/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/52EAFCB5-2059-48D4-9711-3BAA20040567/de/form/52EAFCB5/ns> , <https://resources.swissartresearch.net/vocab/nationalities/52EAFCB5-2059-48D4-9711-3BAA20040567/de/form/52EAFCB5/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/39A8185B-E5D3-4D27-8C79-D2278E0914A4/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Ukrainischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/39A8185B-E5D3-4D27-8C79-D2278E0914A4/de/form/39A8185B/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/39A8185B-E5D3-4D27-8C79-D2278E0914A4/de/form/39A8185B/ns> , <https://resources.swissartresearch.net/vocab/nationalities/39A8185B-E5D3-4D27-8C79-D2278E0914A4/de/form/39A8185B/fs> .
@@ -974,12 +1016,14 @@ sari:D62663DF-9B0A-46D8-ABFD-29145CE0664E
 
 <https://resources.swissartresearch.net/vocab/nationalities/CD339887-21CF-4036-8289-F3214C1CA706/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Finnischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/CD339887-21CF-4036-8289-F3214C1CA706/de/form/CD339887/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/CD339887-21CF-4036-8289-F3214C1CA706/de/form/CD339887/ns> , <https://resources.swissartresearch.net/vocab/nationalities/CD339887-21CF-4036-8289-F3214C1CA706/de/form/CD339887/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/C98CAE57-8C5A-4D91-B390-414F1792ED4A/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Cuban"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/C98CAE57-8C5A-4D91-B390-414F1792ED4A/en/form/C98CAE57/ms> .
 
@@ -991,6 +1035,7 @@ sari:D62663DF-9B0A-46D8-ABFD-29145CE0664E
 
 <https://resources.swissartresearch.net/vocab/nationalities/0F9EC59F-ED2E-4BD4-8A1C-A890C3BB0691/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Hungarian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/0F9EC59F-ED2E-4BD4-8A1C-A890C3BB0691/en/form/0F9EC59F/ms> .
 
@@ -1026,6 +1071,7 @@ sari:EFAA8F7A-4AF5-45B0-A734-554171F9CA86
 
 <https://resources.swissartresearch.net/vocab/nationalities/3D7F4A60-0645-4670-B199-24E9D3DB942E/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Swedish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/3D7F4A60-0645-4670-B199-24E9D3DB942E/en/form/3D7F4A60/ms> .
 
@@ -1063,6 +1109,7 @@ sari:92508EC8-DB34-4F9B-9089-9F7B5E6819CA
 
 <https://resources.swissartresearch.net/vocab/nationalities/35A9AB06-3E91-41F3-ACD8-F30E4A240154/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Lithuanian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/35A9AB06-3E91-41F3-ACD8-F30E4A240154/en/form/35A9AB06/ms> .
 
@@ -1074,11 +1121,13 @@ sari:92508EC8-DB34-4F9B-9089-9F7B5E6819CA
 
 <https://resources.swissartresearch.net/vocab/nationalities/EF8A157C-21FD-44BB-A123-8D02E58ED411/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Egyptian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EF8A157C-21FD-44BB-A123-8D02E58ED411/en/form/EF8A157C/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/EE628136-8618-4853-9A41-BD967D660C89/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Italian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EE628136-8618-4853-9A41-BD967D660C89/en/form/EE628136/ms> .
 
@@ -1124,11 +1173,13 @@ sari:E0C6F09E-5B9B-4F0C-9D21-60F661CDC1A4
 
 <https://resources.swissartresearch.net/vocab/nationalities/5DBBA5A5-2E4B-4888-A9A9-5AB5C03C2FAB/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Czech"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/5DBBA5A5-2E4B-4888-A9A9-5AB5C03C2FAB/en/form/5DBBA5A5/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/1B15C95F-5E5A-4209-9697-01833FFF7711/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Englischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/1B15C95F-5E5A-4209-9697-01833FFF7711/de/form/1B15C95F/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/1B15C95F-5E5A-4209-9697-01833FFF7711/de/form/1B15C95F/ns> , <https://resources.swissartresearch.net/vocab/nationalities/1B15C95F-5E5A-4209-9697-01833FFF7711/de/form/1B15C95F/fs> .
@@ -1175,6 +1226,7 @@ sari:7162FB49-56E2-4781-8549-FBAF027B53D1
 
 <https://resources.swissartresearch.net/vocab/nationalities/5C94CB41-7A6F-45C5-B7CA-036AD42935F5/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Kuwaiti"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/5C94CB41-7A6F-45C5-B7CA-036AD42935F5/en/form/5C94CB41/ms> .
 
@@ -1190,12 +1242,14 @@ sari:7162FB49-56E2-4781-8549-FBAF027B53D1
 
 <https://resources.swissartresearch.net/vocab/nationalities/EEA961CE-8066-4E3E-8FBC-7E32C26F61D0/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Honduranischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EEA961CE-8066-4E3E-8FBC-7E32C26F61D0/de/form/EEA961CE/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/EEA961CE-8066-4E3E-8FBC-7E32C26F61D0/de/form/EEA961CE/ns> , <https://resources.swissartresearch.net/vocab/nationalities/EEA961CE-8066-4E3E-8FBC-7E32C26F61D0/de/form/EEA961CE/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/8BA8C2CA-9AF8-4D40-80B4-85421BC9045E/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Schottischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/8BA8C2CA-9AF8-4D40-80B4-85421BC9045E/de/form/8BA8C2CA/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/8BA8C2CA-9AF8-4D40-80B4-85421BC9045E/de/form/8BA8C2CA/ns> , <https://resources.swissartresearch.net/vocab/nationalities/8BA8C2CA-9AF8-4D40-80B4-85421BC9045E/de/form/8BA8C2CA/fs> .
@@ -1222,6 +1276,7 @@ sari:1B15C95F-5E5A-4209-9697-01833FFF7711
 
 <https://resources.swissartresearch.net/vocab/nationalities/7939E3D5-78A3-4E4B-B235-F0C8944F7974/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Luxembourgian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7939E3D5-78A3-4E4B-B235-F0C8944F7974/en/form/7939E3D5/ms> .
 
@@ -1269,6 +1324,7 @@ sari:7786F6A1-58FE-4DBB-8A5D-52DC79794D94
 
 <https://resources.swissartresearch.net/vocab/nationalities/7F880909-6694-485F-8109-71CAB0FE1C88/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Schweizerischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7F880909-6694-485F-8109-71CAB0FE1C88/de/form/7F880909/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/7F880909-6694-485F-8109-71CAB0FE1C88/de/form/7F880909/ns> , <https://resources.swissartresearch.net/vocab/nationalities/7F880909-6694-485F-8109-71CAB0FE1C88/de/form/7F880909/fs> .
@@ -1287,6 +1343,7 @@ sari:7786F6A1-58FE-4DBB-8A5D-52DC79794D94
 
 <https://resources.swissartresearch.net/vocab/nationalities/A09610DC-2D73-43CA-AECA-8310361216B3/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Sau­di-ara­bischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/A09610DC-2D73-43CA-AECA-8310361216B3/de/form/A09610DC/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/A09610DC-2D73-43CA-AECA-8310361216B3/de/form/A09610DC/ns> , <https://resources.swissartresearch.net/vocab/nationalities/A09610DC-2D73-43CA-AECA-8310361216B3/de/form/A09610DC/fs> .
@@ -1327,6 +1384,7 @@ sari:CD339887-21CF-4036-8289-F3214C1CA706
 
 <https://resources.swissartresearch.net/vocab/nationalities/D62663DF-9B0A-46D8-ABFD-29145CE0664E/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Iraqi"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/D62663DF-9B0A-46D8-ABFD-29145CE0664E/en/form/D62663DF/ms> .
 
@@ -1338,6 +1396,7 @@ sari:CD339887-21CF-4036-8289-F3214C1CA706
 
 <https://resources.swissartresearch.net/vocab/nationalities/AB6E9A26-5C44-4B14-993F-C24A003E9881/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Danish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/AB6E9A26-5C44-4B14-993F-C24A003E9881/en/form/AB6E9A26/ms> .
 
@@ -1365,17 +1424,20 @@ sari:CD339887-21CF-4036-8289-F3214C1CA706
 
 <https://resources.swissartresearch.net/vocab/nationalities/5A54039B-6695-47A9-9DC7-16F2B85F0F59/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Vietnamesischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/5A54039B-6695-47A9-9DC7-16F2B85F0F59/de/form/5A54039B/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/5A54039B-6695-47A9-9DC7-16F2B85F0F59/de/form/5A54039B/ns> , <https://resources.swissartresearch.net/vocab/nationalities/5A54039B-6695-47A9-9DC7-16F2B85F0F59/de/form/5A54039B/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/889AF460-0AA9-45AF-87E9-A66A9C057454/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Tibetan"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/889AF460-0AA9-45AF-87E9-A66A9C057454/en/form/889AF460/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/B700ED79-B273-4B2A-812C-F55A1D6A1598/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Argentinian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B700ED79-B273-4B2A-812C-F55A1D6A1598/en/form/B700ED79/ms> .
 
@@ -1399,6 +1461,7 @@ sari:CD339887-21CF-4036-8289-F3214C1CA706
 
 <https://resources.swissartresearch.net/vocab/nationalities/EF2F2585-4F09-4A6E-B3DF-460E3EA348C6/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Japanese"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EF2F2585-4F09-4A6E-B3DF-460E3EA348C6/en/form/EF2F2585/ms> .
 
@@ -1410,11 +1473,13 @@ sari:CD339887-21CF-4036-8289-F3214C1CA706
 
 <https://resources.swissartresearch.net/vocab/nationalities/E2A0710C-E2D6-4F92-B0CF-9AFF933737B6/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Spanish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/E2A0710C-E2D6-4F92-B0CF-9AFF933737B6/en/form/E2A0710C/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/D97AC3B1-AEB8-4F97-9EA9-396D9098668E/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Holländischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/D97AC3B1-AEB8-4F97-9EA9-396D9098668E/de/form/D97AC3B1/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/D97AC3B1-AEB8-4F97-9EA9-396D9098668E/de/form/D97AC3B1/ns> , <https://resources.swissartresearch.net/vocab/nationalities/D97AC3B1-AEB8-4F97-9EA9-396D9098668E/de/form/D97AC3B1/fs> .
@@ -1427,17 +1492,20 @@ sari:CD339887-21CF-4036-8289-F3214C1CA706
 
 <https://resources.swissartresearch.net/vocab/nationalities/A4549452-21D6-425C-AC55-629BD233CC39/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Südafrikanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/A4549452-21D6-425C-AC55-629BD233CC39/de/form/A4549452/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/A4549452-21D6-425C-AC55-629BD233CC39/de/form/A4549452/ns> , <https://resources.swissartresearch.net/vocab/nationalities/A4549452-21D6-425C-AC55-629BD233CC39/de/form/A4549452/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/F99920C5-0A18-42C5-BBD2-092FD399BDF8/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Algerian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/F99920C5-0A18-42C5-BBD2-092FD399BDF8/en/form/F99920C5/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/92508EC8-DB34-4F9B-9089-9F7B5E6819CA/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Sri-lankischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/92508EC8-DB34-4F9B-9089-9F7B5E6819CA/de/form/92508EC8/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/92508EC8-DB34-4F9B-9089-9F7B5E6819CA/de/form/92508EC8/ns> , <https://resources.swissartresearch.net/vocab/nationalities/92508EC8-DB34-4F9B-9089-9F7B5E6819CA/de/form/92508EC8/fs> .
@@ -1450,6 +1518,7 @@ sari:CD339887-21CF-4036-8289-F3214C1CA706
 
 <https://resources.swissartresearch.net/vocab/nationalities/348BFF3D-C0A1-4115-81E8-6FA3255EAF8C/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Indian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/348BFF3D-C0A1-4115-81E8-6FA3255EAF8C/en/form/348BFF3D/ms> .
 
@@ -1475,17 +1544,20 @@ sari:EEA961CE-8066-4E3E-8FBC-7E32C26F61D0
 
 <https://resources.swissartresearch.net/vocab/nationalities/6860CF1F-C0B8-4222-8BE3-340B8206987E/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Slowakischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/6860CF1F-C0B8-4222-8BE3-340B8206987E/de/form/6860CF1F/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/6860CF1F-C0B8-4222-8BE3-340B8206987E/de/form/6860CF1F/ns> , <https://resources.swissartresearch.net/vocab/nationalities/6860CF1F-C0B8-4222-8BE3-340B8206987E/de/form/6860CF1F/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/67707A77-B622-4111-9801-D38E1EA875F0/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Israeli"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/67707A77-B622-4111-9801-D38E1EA875F0/en/form/67707A77/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/08B6F454-B038-4A57-8277-52DDF9062308/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Czechoslovakian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/08B6F454-B038-4A57-8277-52DDF9062308/en/form/08B6F454/ms> .
 
@@ -1547,6 +1619,7 @@ sari:34D66923-DD69-445C-9BC5-4244F54016A4
 
 <https://resources.swissartresearch.net/vocab/nationalities/B1346941-F627-4E3C-89D2-139C44D5FE3B/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Indonesischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B1346941-F627-4E3C-89D2-139C44D5FE3B/de/form/B1346941/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/B1346941-F627-4E3C-89D2-139C44D5FE3B/de/form/B1346941/ns> , <https://resources.swissartresearch.net/vocab/nationalities/B1346941-F627-4E3C-89D2-139C44D5FE3B/de/form/B1346941/fs> .
@@ -1559,12 +1632,14 @@ sari:34D66923-DD69-445C-9BC5-4244F54016A4
 
 <https://resources.swissartresearch.net/vocab/nationalities/EFAA8F7A-4AF5-45B0-A734-554171F9CA86/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Maltesischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EFAA8F7A-4AF5-45B0-A734-554171F9CA86/de/form/EFAA8F7A/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/EFAA8F7A-4AF5-45B0-A734-554171F9CA86/de/form/EFAA8F7A/ns> , <https://resources.swissartresearch.net/vocab/nationalities/EFAA8F7A-4AF5-45B0-A734-554171F9CA86/de/form/EFAA8F7A/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/0C12C8F1-E226-4189-96CC-8EDC94521D87/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Austrian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/0C12C8F1-E226-4189-96CC-8EDC94521D87/en/form/0C12C8F1/ms> .
 
@@ -1602,6 +1677,7 @@ sari:34D66923-DD69-445C-9BC5-4244F54016A4
 
 <https://resources.swissartresearch.net/vocab/nationalities/A04B3FA0-C02E-48D6-8592-6C6EA4A391F2/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Netherlandish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/A04B3FA0-C02E-48D6-8592-6C6EA4A391F2/en/form/A04B3FA0/ms> .
 
@@ -1655,6 +1731,7 @@ sari:D055961A-4296-4603-8C36-1EB1F35D3412
 
 <https://resources.swissartresearch.net/vocab/nationalities/F3D845EE-44BD-47C6-B6C2-0D84D2E53CA6/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Marokkanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/F3D845EE-44BD-47C6-B6C2-0D84D2E53CA6/de/form/F3D845EE/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/F3D845EE-44BD-47C6-B6C2-0D84D2E53CA6/de/form/F3D845EE/ns> , <https://resources.swissartresearch.net/vocab/nationalities/F3D845EE-44BD-47C6-B6C2-0D84D2E53CA6/de/form/F3D845EE/fs> .
@@ -1683,17 +1760,20 @@ sari:D055961A-4296-4603-8C36-1EB1F35D3412
 
 <https://resources.swissartresearch.net/vocab/nationalities/7B7A5B54-7D07-4968-8473-EB0227FF9DCB/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Simbabischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7B7A5B54-7D07-4968-8473-EB0227FF9DCB/de/form/7B7A5B54/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/7B7A5B54-7D07-4968-8473-EB0227FF9DCB/de/form/7B7A5B54/ns> , <https://resources.swissartresearch.net/vocab/nationalities/7B7A5B54-7D07-4968-8473-EB0227FF9DCB/de/form/7B7A5B54/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/7786F6A1-58FE-4DBB-8A5D-52DC79794D94/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Venezuelan"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7786F6A1-58FE-4DBB-8A5D-52DC79794D94/en/form/7786F6A1/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/2691D124-2980-44E2-ACB6-7984AEF158DF/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Peruanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/2691D124-2980-44E2-ACB6-7984AEF158DF/de/form/2691D124/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/2691D124-2980-44E2-ACB6-7984AEF158DF/de/form/2691D124/ns> , <https://resources.swissartresearch.net/vocab/nationalities/2691D124-2980-44E2-ACB6-7984AEF158DF/de/form/2691D124/fs> .
@@ -1758,12 +1838,14 @@ sari:B1346941-F627-4E3C-89D2-139C44D5FE3B
 
 <https://resources.swissartresearch.net/vocab/nationalities/C2D1100B-DE1E-4C7F-8092-5A4E453379FF/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Jugoslawischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/C2D1100B-DE1E-4C7F-8092-5A4E453379FF/de/form/C2D1100B/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/C2D1100B-DE1E-4C7F-8092-5A4E453379FF/de/form/C2D1100B/ns> , <https://resources.swissartresearch.net/vocab/nationalities/C2D1100B-DE1E-4C7F-8092-5A4E453379FF/de/form/C2D1100B/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/8D9CD9F8-7FFC-45AD-8B3D-C01339D01BDB/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Singapurischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/8D9CD9F8-7FFC-45AD-8B3D-C01339D01BDB/de/form/8D9CD9F8/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/8D9CD9F8-7FFC-45AD-8B3D-C01339D01BDB/de/form/8D9CD9F8/ns> , <https://resources.swissartresearch.net/vocab/nationalities/8D9CD9F8-7FFC-45AD-8B3D-C01339D01BDB/de/form/8D9CD9F8/fs> .
@@ -1838,6 +1920,7 @@ sari:39525E84-3B89-4FDE-B98C-0961080B8F22
 
 <https://resources.swissartresearch.net/vocab/nationalities/5308D042-D543-498E-B955-2B913A447F1B/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Croatian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/5308D042-D543-498E-B955-2B913A447F1B/en/form/5308D042/ms> .
 
@@ -1883,6 +1966,7 @@ sari:3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2
 
 <https://resources.swissartresearch.net/vocab/nationalities/3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Böhmischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2/de/form/3F7BA5E8/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2/de/form/3F7BA5E8/ns> , <https://resources.swissartresearch.net/vocab/nationalities/3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2/de/form/3F7BA5E8/fs> .
@@ -1893,6 +1977,7 @@ sari:3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2
 
 <https://resources.swissartresearch.net/vocab/nationalities/53705562-D9D7-4D4E-81F5-1B52F60EED7C/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Prussian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/53705562-D9D7-4D4E-81F5-1B52F60EED7C/en/form/53705562/ms> .
 
@@ -1904,6 +1989,7 @@ sari:3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2
 
 <https://resources.swissartresearch.net/vocab/nationalities/DE071BB8-F0A6-4CAC-B58C-96F70227D1F9/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "American"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/DE071BB8-F0A6-4CAC-B58C-96F70227D1F9/en/form/DE071BB8/ms> .
 
@@ -1933,6 +2019,7 @@ sari:8D9CD9F8-7FFC-45AD-8B3D-C01339D01BDB
 
 <https://resources.swissartresearch.net/vocab/nationalities/72DC0E20-E8D4-4FFA-985A-F142F40F07CD/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Serbischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/72DC0E20-E8D4-4FFA-985A-F142F40F07CD/de/form/72DC0E20/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/72DC0E20-E8D4-4FFA-985A-F142F40F07CD/de/form/72DC0E20/ns> , <https://resources.swissartresearch.net/vocab/nationalities/72DC0E20-E8D4-4FFA-985A-F142F40F07CD/de/form/72DC0E20/fs> .
@@ -1989,6 +2076,7 @@ sari:2691D124-2980-44E2-ACB6-7984AEF158DF
 
 <https://resources.swissartresearch.net/vocab/nationalities/7162FB49-56E2-4781-8549-FBAF027B53D1/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Uruguayischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7162FB49-56E2-4781-8549-FBAF027B53D1/de/form/7162FB49/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/7162FB49-56E2-4781-8549-FBAF027B53D1/de/form/7162FB49/ns> , <https://resources.swissartresearch.net/vocab/nationalities/7162FB49-56E2-4781-8549-FBAF027B53D1/de/form/7162FB49/fs> .
@@ -2015,6 +2103,7 @@ sari:2691D124-2980-44E2-ACB6-7984AEF158DF
 
 <https://resources.swissartresearch.net/vocab/nationalities/B2BEF971-A2E9-4B26-9BE2-509BA06AE50D/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Mexican"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B2BEF971-A2E9-4B26-9BE2-509BA06AE50D/en/form/B2BEF971/ms> .
 
@@ -2050,6 +2139,7 @@ sari:2691D124-2980-44E2-ACB6-7984AEF158DF
 
 <https://resources.swissartresearch.net/vocab/nationalities/52EAFCB5-2059-48D4-9711-3BAA20040567/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "US-amercian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/52EAFCB5-2059-48D4-9711-3BAA20040567/en/form/52EAFCB5/ms> .
 
@@ -2059,6 +2149,7 @@ sari:2691D124-2980-44E2-ACB6-7984AEF158DF
 
 <https://resources.swissartresearch.net/vocab/nationalities/39A8185B-E5D3-4D27-8C79-D2278E0914A4/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Ukrainian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/39A8185B-E5D3-4D27-8C79-D2278E0914A4/en/form/39A8185B/ms> .
 
@@ -2084,6 +2175,7 @@ sari:B700ED79-B273-4B2A-812C-F55A1D6A1598
 
 <https://resources.swissartresearch.net/vocab/nationalities/CD339887-21CF-4036-8289-F3214C1CA706/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Finnish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/CD339887-21CF-4036-8289-F3214C1CA706/en/form/CD339887/ms> .
 
@@ -2143,6 +2235,7 @@ sari:079ABCD9-5F23-4E01-A926-2E29106D6B33
 
 <https://resources.swissartresearch.net/vocab/nationalities/8D86F4CE-4C86-47EA-9568-7D734A05B83F/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Iranischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/8D86F4CE-4C86-47EA-9568-7D734A05B83F/de/form/8D86F4CE/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/8D86F4CE-4C86-47EA-9568-7D734A05B83F/de/form/8D86F4CE/ns> , <https://resources.swissartresearch.net/vocab/nationalities/8D86F4CE-4C86-47EA-9568-7D734A05B83F/de/form/8D86F4CE/fs> .
@@ -2178,12 +2271,14 @@ sari:08B6F454-B038-4A57-8277-52DDF9062308
 
 <https://resources.swissartresearch.net/vocab/nationalities/D8015D7B-6A17-4F7E-A57E-E99C69E04447/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Libanesischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/D8015D7B-6A17-4F7E-A57E-E99C69E04447/de/form/D8015D7B/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/D8015D7B-6A17-4F7E-A57E-E99C69E04447/de/form/D8015D7B/ns> , <https://resources.swissartresearch.net/vocab/nationalities/D8015D7B-6A17-4F7E-A57E-E99C69E04447/de/form/D8015D7B/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/B4AB8A79-4D79-457D-8DCA-0C0D039A7D1C/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Bolivianischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B4AB8A79-4D79-457D-8DCA-0C0D039A7D1C/de/form/B4AB8A79/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/B4AB8A79-4D79-457D-8DCA-0C0D039A7D1C/de/form/B4AB8A79/ns> , <https://resources.swissartresearch.net/vocab/nationalities/B4AB8A79-4D79-457D-8DCA-0C0D039A7D1C/de/form/B4AB8A79/fs> .
@@ -2212,12 +2307,14 @@ sari:F8779DDC-52F5-494C-A8C3-A9ADF4CD1746
 
 <https://resources.swissartresearch.net/vocab/nationalities/AAEF9D50-653F-46C0-B00B-41CAAFCE3492/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Griechischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/AAEF9D50-653F-46C0-B00B-41CAAFCE3492/de/form/AAEF9D50/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/AAEF9D50-653F-46C0-B00B-41CAAFCE3492/de/form/AAEF9D50/ns> , <https://resources.swissartresearch.net/vocab/nationalities/AAEF9D50-653F-46C0-B00B-41CAAFCE3492/de/form/AAEF9D50/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/39525E84-3B89-4FDE-B98C-0961080B8F22/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Irischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/39525E84-3B89-4FDE-B98C-0961080B8F22/de/form/39525E84/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/39525E84-3B89-4FDE-B98C-0961080B8F22/de/form/39525E84/ns> , <https://resources.swissartresearch.net/vocab/nationalities/39525E84-3B89-4FDE-B98C-0961080B8F22/de/form/39525E84/fs> .
@@ -2236,6 +2333,7 @@ sari:F8779DDC-52F5-494C-A8C3-A9ADF4CD1746
 
 <https://resources.swissartresearch.net/vocab/nationalities/1B15C95F-5E5A-4209-9697-01833FFF7711/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "English"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/1B15C95F-5E5A-4209-9697-01833FFF7711/en/form/1B15C95F/ms> .
 
@@ -2253,11 +2351,13 @@ sari:F8779DDC-52F5-494C-A8C3-A9ADF4CD1746
 
 <https://resources.swissartresearch.net/vocab/nationalities/EEA961CE-8066-4E3E-8FBC-7E32C26F61D0/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Honduran"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EEA961CE-8066-4E3E-8FBC-7E32C26F61D0/en/form/EEA961CE/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/8BA8C2CA-9AF8-4D40-80B4-85421BC9045E/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Scottish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/8BA8C2CA-9AF8-4D40-80B4-85421BC9045E/en/form/8BA8C2CA/ms> .
 
@@ -2359,6 +2459,7 @@ sari:E4EB5D22-04D7-4F1D-88B0-020F276EA654
 
 <https://resources.swissartresearch.net/vocab/nationalities/7F880909-6694-485F-8109-71CAB0FE1C88/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Swiss"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7F880909-6694-485F-8109-71CAB0FE1C88/en/form/7F880909/ms> .
 
@@ -2370,6 +2471,7 @@ sari:E4EB5D22-04D7-4F1D-88B0-020F276EA654
 
 <https://resources.swissartresearch.net/vocab/nationalities/A09610DC-2D73-43CA-AECA-8310361216B3/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Saudi arabian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/A09610DC-2D73-43CA-AECA-8310361216B3/en/form/A09610DC/ms> .
 
@@ -2417,6 +2519,7 @@ sari_terms:masculine  a  lexinfo:masculine .
 
 <https://resources.swissartresearch.net/vocab/nationalities/5A54039B-6695-47A9-9DC7-16F2B85F0F59/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Vietnamese"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/5A54039B-6695-47A9-9DC7-16F2B85F0F59/en/form/5A54039B/ms> .
 
@@ -2428,6 +2531,7 @@ sari_terms:masculine  a  lexinfo:masculine .
 
 <https://resources.swissartresearch.net/vocab/nationalities/B707EF14-9339-4DC3-A32C-A063666BF64E/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Russischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B707EF14-9339-4DC3-A32C-A063666BF64E/de/form/B707EF14/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/B707EF14-9339-4DC3-A32C-A063666BF64E/de/form/B707EF14/ns> , <https://resources.swissartresearch.net/vocab/nationalities/B707EF14-9339-4DC3-A32C-A063666BF64E/de/form/B707EF14/fs> .
@@ -2476,11 +2580,13 @@ sari:348BFF3D-C0A1-4115-81E8-6FA3255EAF8C
 
 <https://resources.swissartresearch.net/vocab/nationalities/D97AC3B1-AEB8-4F97-9EA9-396D9098668E/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Dutch"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/D97AC3B1-AEB8-4F97-9EA9-396D9098668E/en/form/D97AC3B1/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/A4549452-21D6-425C-AC55-629BD233CC39/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "South African"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/A4549452-21D6-425C-AC55-629BD233CC39/en/form/A4549452/ms> .
 
@@ -2498,6 +2604,7 @@ sari:348BFF3D-C0A1-4115-81E8-6FA3255EAF8C
 
 <https://resources.swissartresearch.net/vocab/nationalities/92508EC8-DB34-4F9B-9089-9F7B5E6819CA/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Sri Lankan"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/92508EC8-DB34-4F9B-9089-9F7B5E6819CA/en/form/92508EC8/ms> .
 
@@ -2509,6 +2616,7 @@ sari:348BFF3D-C0A1-4115-81E8-6FA3255EAF8C
 
 <https://resources.swissartresearch.net/vocab/nationalities/795C0536-C777-49BA-B5ED-470A13310C31/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Bayrischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/795C0536-C777-49BA-B5ED-470A13310C31/de/form/795C0536/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/795C0536-C777-49BA-B5ED-470A13310C31/de/form/795C0536/ns> , <https://resources.swissartresearch.net/vocab/nationalities/795C0536-C777-49BA-B5ED-470A13310C31/de/form/795C0536/fs> .
@@ -2521,6 +2629,7 @@ sari:348BFF3D-C0A1-4115-81E8-6FA3255EAF8C
 
 <https://resources.swissartresearch.net/vocab/nationalities/9EFE1F96-9ACA-49B5-8DC6-BABC22A7DD26/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Brasilianischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/9EFE1F96-9ACA-49B5-8DC6-BABC22A7DD26/de/form/9EFE1F96/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/9EFE1F96-9ACA-49B5-8DC6-BABC22A7DD26/de/form/9EFE1F96/ns> , <https://resources.swissartresearch.net/vocab/nationalities/9EFE1F96-9ACA-49B5-8DC6-BABC22A7DD26/de/form/9EFE1F96/fs> .
@@ -2533,6 +2642,7 @@ sari:348BFF3D-C0A1-4115-81E8-6FA3255EAF8C
 
 <https://resources.swissartresearch.net/vocab/nationalities/6860CF1F-C0B8-4222-8BE3-340B8206987E/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Slovak"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/6860CF1F-C0B8-4222-8BE3-340B8206987E/en/form/6860CF1F/ms> .
 
@@ -2582,17 +2692,20 @@ sari:D8015D7B-6A17-4F7E-A57E-E99C69E04447
 
 <https://resources.swissartresearch.net/vocab/nationalities/D055961A-4296-4603-8C36-1EB1F35D3412/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Weissrussicher"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/D055961A-4296-4603-8C36-1EB1F35D3412/de/form/D055961A/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/D055961A-4296-4603-8C36-1EB1F35D3412/de/form/D055961A/ns> , <https://resources.swissartresearch.net/vocab/nationalities/D055961A-4296-4603-8C36-1EB1F35D3412/de/form/D055961A/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/B1346941-F627-4E3C-89D2-139C44D5FE3B/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Indonesian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B1346941-F627-4E3C-89D2-139C44D5FE3B/en/form/B1346941/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/30432D0B-4346-4957-B45D-B51214474B44/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Chinesischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/30432D0B-4346-4957-B45D-B51214474B44/de/form/30432D0B/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/30432D0B-4346-4957-B45D-B51214474B44/de/form/30432D0B/ns> , <https://resources.swissartresearch.net/vocab/nationalities/30432D0B-4346-4957-B45D-B51214474B44/de/form/30432D0B/fs> .
@@ -2613,6 +2726,7 @@ sari:8D86F4CE-4C86-47EA-9568-7D734A05B83F
 
 <https://resources.swissartresearch.net/vocab/nationalities/EFAA8F7A-4AF5-45B0-A734-554171F9CA86/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Maltese"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EFAA8F7A-4AF5-45B0-A734-554171F9CA86/en/form/EFAA8F7A/ms> .
 
@@ -2724,6 +2838,7 @@ sari:53705562-D9D7-4D4E-81F5-1B52F60EED7C
 
 <https://resources.swissartresearch.net/vocab/nationalities/F3D845EE-44BD-47C6-B6C2-0D84D2E53CA6/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Moroccan"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/F3D845EE-44BD-47C6-B6C2-0D84D2E53CA6/en/form/F3D845EE/ms> .
 
@@ -2741,17 +2856,20 @@ sari:53705562-D9D7-4D4E-81F5-1B52F60EED7C
 
 <https://resources.swissartresearch.net/vocab/nationalities/7B7A5B54-7D07-4968-8473-EB0227FF9DCB/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Zimbabwean"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7B7A5B54-7D07-4968-8473-EB0227FF9DCB/en/form/7B7A5B54/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/CB156B20-E5D2-455D-B48D-CF693ECF7C19/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Belgischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/CB156B20-E5D2-455D-B48D-CF693ECF7C19/de/form/CB156B20/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/CB156B20-E5D2-455D-B48D-CF693ECF7C19/de/form/CB156B20/ns> , <https://resources.swissartresearch.net/vocab/nationalities/CB156B20-E5D2-455D-B48D-CF693ECF7C19/de/form/CB156B20/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/2691D124-2980-44E2-ACB6-7984AEF158DF/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Peruvian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/2691D124-2980-44E2-ACB6-7984AEF158DF/en/form/2691D124/ms> .
 
@@ -2775,6 +2893,7 @@ sari:53705562-D9D7-4D4E-81F5-1B52F60EED7C
 
 <https://resources.swissartresearch.net/vocab/nationalities/C2D1100B-DE1E-4C7F-8092-5A4E453379FF/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Yugoslavian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/C2D1100B-DE1E-4C7F-8092-5A4E453379FF/en/form/C2D1100B/ms> .
 
@@ -2786,6 +2905,7 @@ sari:53705562-D9D7-4D4E-81F5-1B52F60EED7C
 
 <https://resources.swissartresearch.net/vocab/nationalities/8D9CD9F8-7FFC-45AD-8B3D-C01339D01BDB/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Singaporean"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/8D9CD9F8-7FFC-45AD-8B3D-C01339D01BDB/en/form/8D9CD9F8/ms> .
 
@@ -2823,6 +2943,7 @@ sari:53705562-D9D7-4D4E-81F5-1B52F60EED7C
 
 <https://resources.swissartresearch.net/vocab/nationalities/F8779DDC-52F5-494C-A8C3-A9ADF4CD1746/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Philippinischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/F8779DDC-52F5-494C-A8C3-A9ADF4CD1746/de/form/F8779DDC/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/F8779DDC-52F5-494C-A8C3-A9ADF4CD1746/de/form/F8779DDC/ns> , <https://resources.swissartresearch.net/vocab/nationalities/F8779DDC-52F5-494C-A8C3-A9ADF4CD1746/de/form/F8779DDC/fs> .
@@ -2835,6 +2956,7 @@ sari:53705562-D9D7-4D4E-81F5-1B52F60EED7C
 
 <https://resources.swissartresearch.net/vocab/nationalities/4CE2A01D-62F5-41A6-8D5E-212B01CFA5C0/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Australischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/4CE2A01D-62F5-41A6-8D5E-212B01CFA5C0/de/form/4CE2A01D/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/4CE2A01D-62F5-41A6-8D5E-212B01CFA5C0/de/form/4CE2A01D/ns> , <https://resources.swissartresearch.net/vocab/nationalities/4CE2A01D-62F5-41A6-8D5E-212B01CFA5C0/de/form/4CE2A01D/fs> .
@@ -2869,6 +2991,7 @@ sari:B4AB8A79-4D79-457D-8DCA-0C0D039A7D1C
 
 <https://resources.swissartresearch.net/vocab/nationalities/3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Bohemian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/3F7BA5E8-CD12-4DEB-A429-C2E07B801AC2/en/form/3F7BA5E8/ms> .
 
@@ -2880,6 +3003,7 @@ sari:B4AB8A79-4D79-457D-8DCA-0C0D039A7D1C
 
 <https://resources.swissartresearch.net/vocab/nationalities/CFB7173B-DC1B-416E-9BA2-018E687B82B8/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Kanadischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/CFB7173B-DC1B-416E-9BA2-018E687B82B8/de/form/CFB7173B/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/CFB7173B-DC1B-416E-9BA2-018E687B82B8/de/form/CFB7173B/ns> , <https://resources.swissartresearch.net/vocab/nationalities/CFB7173B-DC1B-416E-9BA2-018E687B82B8/de/form/CFB7173B/fs> .
@@ -2898,11 +3022,13 @@ sari:AB6E9A26-5C44-4B14-993F-C24A003E9881
 
 <https://resources.swissartresearch.net/vocab/nationalities/72DC0E20-E8D4-4FFA-985A-F142F40F07CD/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Serbian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/72DC0E20-E8D4-4FFA-985A-F142F40F07CD/en/form/72DC0E20/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/8E635BEB-717C-41BE-A00F-7A0ACA33D506/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Deutscher"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/8E635BEB-717C-41BE-A00F-7A0ACA33D506/de/form/8E635BEB/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/8E635BEB-717C-41BE-A00F-7A0ACA33D506/de/form/8E635BEB/ns> , <https://resources.swissartresearch.net/vocab/nationalities/8E635BEB-717C-41BE-A00F-7A0ACA33D506/de/form/8E635BEB/fs> .
@@ -2913,6 +3039,7 @@ sari:AB6E9A26-5C44-4B14-993F-C24A003E9881
 
 <https://resources.swissartresearch.net/vocab/nationalities/E0C6F09E-5B9B-4F0C-9D21-60F661CDC1A4/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Türkischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/E0C6F09E-5B9B-4F0C-9D21-60F661CDC1A4/de/form/E0C6F09E/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/E0C6F09E-5B9B-4F0C-9D21-60F661CDC1A4/de/form/E0C6F09E/ns> , <https://resources.swissartresearch.net/vocab/nationalities/E0C6F09E-5B9B-4F0C-9D21-60F661CDC1A4/de/form/E0C6F09E/fs> .
@@ -2975,6 +3102,7 @@ sari:AB6E9A26-5C44-4B14-993F-C24A003E9881
 
 <https://resources.swissartresearch.net/vocab/nationalities/1976212E-AA08-458B-845A-6B77BD83BD73/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Sowjetischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/1976212E-AA08-458B-845A-6B77BD83BD73/de/form/1976212E/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/1976212E-AA08-458B-845A-6B77BD83BD73/de/form/1976212E/ns> , <https://resources.swissartresearch.net/vocab/nationalities/1976212E-AA08-458B-845A-6B77BD83BD73/de/form/1976212E/fs> .
@@ -3037,11 +3165,13 @@ sari:7F880909-6694-485F-8109-71CAB0FE1C88
 
 <https://resources.swissartresearch.net/vocab/nationalities/7162FB49-56E2-4781-8549-FBAF027B53D1/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Uruguayan"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7162FB49-56E2-4781-8549-FBAF027B53D1/en/form/7162FB49/ms> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/079ABCD9-5F23-4E01-A926-2E29106D6B33/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Polnischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/079ABCD9-5F23-4E01-A926-2E29106D6B33/de/form/079ABCD9/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/079ABCD9-5F23-4E01-A926-2E29106D6B33/de/form/079ABCD9/ns> , <https://resources.swissartresearch.net/vocab/nationalities/079ABCD9-5F23-4E01-A926-2E29106D6B33/de/form/079ABCD9/fs> .
@@ -3080,12 +3210,14 @@ sari:795C0536-C777-49BA-B5ED-470A13310C31
 
 <https://resources.swissartresearch.net/vocab/nationalities/1D094F0D-EDD4-46EA-9E7C-57DAB517F61C/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Kolumbianischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/1D094F0D-EDD4-46EA-9E7C-57DAB517F61C/de/form/1D094F0D/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/1D094F0D-EDD4-46EA-9E7C-57DAB517F61C/de/form/1D094F0D/ns> , <https://resources.swissartresearch.net/vocab/nationalities/1D094F0D-EDD4-46EA-9E7C-57DAB517F61C/de/form/1D094F0D/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/34D66923-DD69-445C-9BC5-4244F54016A4/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Lettischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/34D66923-DD69-445C-9BC5-4244F54016A4/de/form/34D66923/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/34D66923-DD69-445C-9BC5-4244F54016A4/de/form/34D66923/ns> , <https://resources.swissartresearch.net/vocab/nationalities/34D66923-DD69-445C-9BC5-4244F54016A4/de/form/34D66923/fs> .
@@ -3132,12 +3264,14 @@ sari:1976212E-AA08-458B-845A-6B77BD83BD73
 
 <https://resources.swissartresearch.net/vocab/nationalities/E4EB5D22-04D7-4F1D-88B0-020F276EA654/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Chilenischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/E4EB5D22-04D7-4F1D-88B0-020F276EA654/de/form/E4EB5D22/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/E4EB5D22-04D7-4F1D-88B0-020F276EA654/de/form/E4EB5D22/ns> , <https://resources.swissartresearch.net/vocab/nationalities/E4EB5D22-04D7-4F1D-88B0-020F276EA654/de/form/E4EB5D22/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/CAC19E49-3E2C-4010-A60B-69DAD36FFE23/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Australischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/CAC19E49-3E2C-4010-A60B-69DAD36FFE23/de/form/CAC19E49/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/CAC19E49-3E2C-4010-A60B-69DAD36FFE23/de/form/CAC19E49/ns> , <https://resources.swissartresearch.net/vocab/nationalities/CAC19E49-3E2C-4010-A60B-69DAD36FFE23/de/form/CAC19E49/fs> .
@@ -3160,6 +3294,7 @@ sari:1976212E-AA08-458B-845A-6B77BD83BD73
 
 <https://resources.swissartresearch.net/vocab/nationalities/BA04A415-DA13-49CB-AEFA-17E2AB15BB9F/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Norwegischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/BA04A415-DA13-49CB-AEFA-17E2AB15BB9F/de/form/BA04A415/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/BA04A415-DA13-49CB-AEFA-17E2AB15BB9F/de/form/BA04A415/ns> , <https://resources.swissartresearch.net/vocab/nationalities/BA04A415-DA13-49CB-AEFA-17E2AB15BB9F/de/form/BA04A415/fs> .
@@ -3172,6 +3307,7 @@ sari:1976212E-AA08-458B-845A-6B77BD83BD73
 
 <https://resources.swissartresearch.net/vocab/nationalities/8D86F4CE-4C86-47EA-9568-7D734A05B83F/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Iranian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/8D86F4CE-4C86-47EA-9568-7D734A05B83F/en/form/8D86F4CE/ms> .
 
@@ -3195,6 +3331,7 @@ sari:1976212E-AA08-458B-845A-6B77BD83BD73
 
 <https://resources.swissartresearch.net/vocab/nationalities/D8015D7B-6A17-4F7E-A57E-E99C69E04447/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Lebanese"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/D8015D7B-6A17-4F7E-A57E-E99C69E04447/en/form/D8015D7B/ms> .
 
@@ -3206,6 +3343,7 @@ sari:1976212E-AA08-458B-845A-6B77BD83BD73
 
 <https://resources.swissartresearch.net/vocab/nationalities/B4AB8A79-4D79-457D-8DCA-0C0D039A7D1C/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Bolivian"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/B4AB8A79-4D79-457D-8DCA-0C0D039A7D1C/en/form/B4AB8A79/ms> .
 
@@ -3229,6 +3367,7 @@ sari:8BA8C2CA-9AF8-4D40-80B4-85421BC9045E
 
 <https://resources.swissartresearch.net/vocab/nationalities/AAEF9D50-653F-46C0-B00B-41CAAFCE3492/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Greek"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/AAEF9D50-653F-46C0-B00B-41CAAFCE3492/en/form/AAEF9D50/ms> .
 
@@ -3248,6 +3387,7 @@ sari:7939E3D5-78A3-4E4B-B235-F0C8944F7974
 
 <https://resources.swissartresearch.net/vocab/nationalities/39525E84-3B89-4FDE-B98C-0961080B8F22/en>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Irish"@en ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1293"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/39525E84-3B89-4FDE-B98C-0961080B8F22/en/form/39525E84/ms> .
 
@@ -3277,6 +3417,7 @@ sari:5308D042-D543-498E-B955-2B913A447F1B
 
 <https://resources.swissartresearch.net/vocab/nationalities/4F06C58A-953F-4C68-AA60-A6DDA836ADE1/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Rumänischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/4F06C58A-953F-4C68-AA60-A6DDA836ADE1/de/form/4F06C58A/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/4F06C58A-953F-4C68-AA60-A6DDA836ADE1/de/form/4F06C58A/ns> , <https://resources.swissartresearch.net/vocab/nationalities/4F06C58A-953F-4C68-AA60-A6DDA836ADE1/de/form/4F06C58A/fs> .
@@ -3343,6 +3484,7 @@ sari:6860CF1F-C0B8-4222-8BE3-340B8206987E
 
 <https://resources.swissartresearch.net/vocab/nationalities/7FE50602-E802-4418-B14E-012DD821A908/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Französischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/7FE50602-E802-4418-B14E-012DD821A908/de/form/7FE50602/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/7FE50602-E802-4418-B14E-012DD821A908/de/form/7FE50602/ns> , <https://resources.swissartresearch.net/vocab/nationalities/7FE50602-E802-4418-B14E-012DD821A908/de/form/7FE50602/fs> .
@@ -3373,6 +3515,7 @@ sari:4CE2A01D-62F5-41A6-8D5E-212B01CFA5C0
 
 <https://resources.swissartresearch.net/vocab/nationalities/C98CAE57-8C5A-4D91-B390-414F1792ED4A/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Kubanischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/C98CAE57-8C5A-4D91-B390-414F1792ED4A/de/form/C98CAE57/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/C98CAE57-8C5A-4D91-B390-414F1792ED4A/de/form/C98CAE57/ns> , <https://resources.swissartresearch.net/vocab/nationalities/C98CAE57-8C5A-4D91-B390-414F1792ED4A/de/form/C98CAE57/fs> .
@@ -3413,6 +3556,7 @@ sari:BA04A415-DA13-49CB-AEFA-17E2AB15BB9F
 
 <https://resources.swissartresearch.net/vocab/nationalities/0F9EC59F-ED2E-4BD4-8A1C-A890C3BB0691/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Ungarischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/0F9EC59F-ED2E-4BD4-8A1C-A890C3BB0691/de/form/0F9EC59F/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/0F9EC59F-ED2E-4BD4-8A1C-A890C3BB0691/de/form/0F9EC59F/ns> , <https://resources.swissartresearch.net/vocab/nationalities/0F9EC59F-ED2E-4BD4-8A1C-A890C3BB0691/de/form/0F9EC59F/fs> .
@@ -3427,6 +3571,7 @@ sari:0F9EC59F-ED2E-4BD4-8A1C-A890C3BB0691
 
 <https://resources.swissartresearch.net/vocab/nationalities/3D7F4A60-0645-4670-B199-24E9D3DB942E/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Schwedischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/3D7F4A60-0645-4670-B199-24E9D3DB942E/de/form/3D7F4A60/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/3D7F4A60-0645-4670-B199-24E9D3DB942E/de/form/3D7F4A60/ns> , <https://resources.swissartresearch.net/vocab/nationalities/3D7F4A60-0645-4670-B199-24E9D3DB942E/de/form/3D7F4A60/fs> .
@@ -3461,6 +3606,7 @@ sari:0C12C8F1-E226-4189-96CC-8EDC94521D87
 
 <https://resources.swissartresearch.net/vocab/nationalities/35A9AB06-3E91-41F3-ACD8-F30E4A240154/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Litauischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/35A9AB06-3E91-41F3-ACD8-F30E4A240154/de/form/35A9AB06/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/35A9AB06-3E91-41F3-ACD8-F30E4A240154/de/form/35A9AB06/ns> , <https://resources.swissartresearch.net/vocab/nationalities/35A9AB06-3E91-41F3-ACD8-F30E4A240154/de/form/35A9AB06/fs> .
@@ -3481,12 +3627,14 @@ sari:52EAFCB5-2059-48D4-9711-3BAA20040567
 
 <https://resources.swissartresearch.net/vocab/nationalities/EF8A157C-21FD-44BB-A123-8D02E58ED411/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Ägyptischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EF8A157C-21FD-44BB-A123-8D02E58ED411/de/form/EF8A157C/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/EF8A157C-21FD-44BB-A123-8D02E58ED411/de/form/EF8A157C/ns> , <https://resources.swissartresearch.net/vocab/nationalities/EF8A157C-21FD-44BB-A123-8D02E58ED411/de/form/EF8A157C/fs> .
 
 <https://resources.swissartresearch.net/vocab/nationalities/EE628136-8618-4853-9A41-BD967D660C89/de>
         a                      crm:E33_Linguistic_Object , ontolex:LexicalEntry ;
+        rdfs:label             "Italienischer"@de ;
         crm:P73_has_language   "https://glottolog.org/resource/languoid/id/stan1295"^^xsd:anyURI ;
         ontolex:canonicalForm  <https://resources.swissartresearch.net/vocab/nationalities/EE628136-8618-4853-9A41-BD967D660C89/de/form/EE628136/ms> ;
         ontolex:lexicalForm    <https://resources.swissartresearch.net/vocab/nationalities/EE628136-8618-4853-9A41-BD967D660C89/de/form/EE628136/ns> , <https://resources.swissartresearch.net/vocab/nationalities/EE628136-8618-4853-9A41-BD967D660C89/de/form/EE628136/fs> .
