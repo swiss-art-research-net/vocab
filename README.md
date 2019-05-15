@@ -13,8 +13,8 @@ The controlled vocabulary for nationalities includes terms from English (en-US) 
 
 Examples of the terms used are:
 
-|-----------|-----------------|----------------|---------------|
-| Brasilian | Brasilianischer | Brasilianische | Brasilianisch | 
+
+> Brasilian,  Brasilianischer, Brasilianische, Brasilianisch 
 
 Each term is linked with the corresponding one present (when available) from the [Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) produced by the [Getty](http://www.getty.edu).
 
@@ -34,8 +34,7 @@ The controlled vocabulary for occupations includes terms from English (en-US) an
 
 Examples of the terms used are:  
 
-|-------------	|---------------	|-------------	|---------------	|---------------	|---------------	|-----------------	|-----------------	|
-| businessman 	| businesswoman 	| businessmen 	| businesswomen 	| Geschäftsmann 	| Geschäftsfrau 	| Geschäftsmänner 	| Geschäftsfrauen 	|
+> businessman, businesswoman, businessmen, businesswomen, Geschäftsmann, Geschäftsfrau, Geschäftsmänner, Geschäftsfrauen 
 
 Each term is linked with the corresponding one present (when available) from the [Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) produced by the [Getty](http://www.getty.edu).
 
