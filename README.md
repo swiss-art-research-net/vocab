@@ -53,7 +53,7 @@ Each term is linked with the corresponding one present (when available) from the
 
 ## Model
 
-The vocabularies are Semantic Web ready and modelled in RDF using both the [Ontolex](https://www.w3.org/2016/05/ontolex) and [Lexinfo](https://lexinfo.net/) ontologies. A graphic model of the mapping is available below in figure 1
+The occupation and nationalities vocabularies are Semantic Web ready and modelled in RDF using both the [Ontolex](https://www.w3.org/2016/05/ontolex) and [Lexinfo](https://lexinfo.net/) ontologies. A graphic model of the mapping is available below in figure 1
 
 ![**Figure 1**](https://workspace.digitale-diathek.net/confluence/rest/gliffy/1.0/embeddedDiagrams/ea8df865-2778-4b49-850a-bdbf437db060.png)
 
