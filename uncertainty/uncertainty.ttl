@@ -1,0 +1,45 @@
+@prefix sari:  <https://schema.swissartresearch.net/vocab/uncertainty#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+@prefix vann:  <http://purl.org/vocab/vann/> .
+
+
+<https://schema.swissartresearch.net/vocab/uncertainty>
+  dc:title "Vocabulary for the definition of level of uncertainty or imprecision in the data"@en ;
+  dc:creator "Nicola Carboni" ;
+  dc:publisher "Swiss Art Research Infrastructure"@en ;
+  dc:created "2019-08-31" ;
+  vann:preferredNamespacePrefix "sari" ;
+  vann:preferredNamespaceUri "https://schema.swissartresearch.net/vocab/uncertainty#" .
+
+
+sari:Vague  a            skos:Concept , crm:E55_Type ;
+        skos:definition  "Situation in which the value of an attribute lack ontological precision."@en ;
+        skos:example     "simon is young"@en ;
+        skos:prefLabel   "Vague"@fr , "Vago"@it , "Vague"@en .
+
+sari:Uncertain  a        skos:Concept , crm:E55_Type ;
+        skos:definition  "Lack of available information about the state of the world for determining if a classical statement (which can only be true or false) is actually true or false."@en ;
+        skos:exactMatch  "https://www.wikidata.org/wiki/Q13649246"^^xsd:anyURI ;
+        skos:prefLabel   "Incertain"@fr , "Incerto"@it , "Uncertain"@en .
+
+sari:Imprecise  a        skos:Concept , crm:E55_Type ;
+        skos:definition  "The value presented are not precise, but can be verified and can be true or false."@en ;
+        skos:example     "The birth of a person is between '01-01-1201' and '31-12-1201'"@en ;
+        skos:prefLabel   "Imprécis"@fr , "Impreciso"@it , "Imprecise"@en .
+
+sari:Inconsistent  a     skos:Concept , crm:E55_Type ;
+        skos:definition  "More than one value is present and they are inconsistent with each other."@en ;
+        skos:example     "the birth of a person happened on the '01-01-1201' OR on the '02-01-1201'"@en ;
+        skos:prefLabel   "Contradictoire"@fr , "Discordante"@it , "Inconsistent"@en .
+
+sari:Incomplete  a       skos:Concept , crm:E55_Type ;
+        skos:definition  "The value of an attribute is unknown but discoverable."@en ;
+        skos:example     "A person is born on '01-01-1201'. We do not know his name."@en ;
+        skos:prefLabel   "Incomplet"@fr , "Incompleto"@it , "Incomplete"@en .

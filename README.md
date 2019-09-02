@@ -2,7 +2,19 @@
 
 Initial controlled vocabularies used in the SARI project for the definition of nationalities and occupations. These vocabularies are not final, but represents the current state of work.
 
-## Nationalities
+## [Uncertainty](uncertainty/)
+
+ Controlled vocabulary in SKOS used for the tagging of digital information. Five terms have been identified:
+ 
+ + Imprecise
+ + Vague
+ + Incomplete
+ + Uncertain
+ + Imprecise
+
+Terms are available in Italian, French, English and soon German 
+
+## [Nationalities](nationalities/)
 
 The controlled vocabulary for nationalities includes terms from English (en-US) and german (de-DE) to indicate the national affiliation of an agent using the following forms:
 
@@ -19,7 +31,7 @@ Examples of the terms used are:
 Each term is linked with the corresponding one present (when available) from the [Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) produced by the [Getty](http://www.getty.edu).
 
 
-## Occupations
+## [Occupations](occupation/)
 
 The controlled vocabulary for occupations includes terms from English (en-US) and german (de-DE) to indicate the occupation of an agent using the following forms:
 
