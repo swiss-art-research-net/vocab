@@ -6,11 +6,24 @@
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#> .
-@prefix sari:  <https://resources.swissartresearch.net/vocab/nationalities/> .
+@prefix sari:  <https://resources.swissartresearch.net/vocab/occupation#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xml:   <http://www.w3.org/XML/1998/namespace> .
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+
+
+<https://resources.swissartresearch.net/vocab/occupation>
+  dc:title "Vocabulary of occupations in the heritage sectors"@en ;
+  dc:creator "Nicola Carboni" ;
+  dc:publisher "Swiss Art Research Infrastructure, University of Zurich"@en ;
+  dc:publisher "Swiss Federal Institute of Technology in Zurich"@en ;
+  dc:created "2019-07-31" ;
+   dc:rights "This work is distributed under a CC0 No Rights Reserved license (https://creativecommons.org/share-your-work/public-domain/cc0/)."@en ;
+  vann:preferredNamespacePrefix "sari" ;
+  vann:preferredNamespaceUri "https://resources.swissartresearch.net/vocab/occupation#" .
 
 <https://resources.swissartresearch.net/vocab/nationalities/BE640364-386F-4CD8-8921-306125B7AC42/en>
         a                     crm:E33_Linguistic_Object , ontolex:LexicalEntry ;

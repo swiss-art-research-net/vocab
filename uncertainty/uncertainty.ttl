@@ -13,8 +13,9 @@
 <https://schema.swissartresearch.net/vocab/uncertainty>
   dc:title "Vocabulary for the definition of level of uncertainty or imprecision in the data"@en ;
   dc:creator "Nicola Carboni" ;
-  dc:publisher "Swiss Art Research Infrastructure"@en ;
+  dc:publisher "Swiss Art Research Infrastructure, University of Zurich"@en ;
   dc:created "2019-08-31" ;
+  dc:rights "This work is distributed under a Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/)."@en ;
   vann:preferredNamespacePrefix "sari" ;
   vann:preferredNamespaceUri "https://schema.swissartresearch.net/vocab/uncertainty#" .
 
