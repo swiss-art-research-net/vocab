@@ -16,7 +16,7 @@
 
 
 <https://resources.swissartresearch.net/vocab/nationalities>
-  dc:title "Vocabulary of occupations in the heritage sectors"@en ;
+  dc:title "Vocabulary of nationalities in the heritage sectors"@en ;
   dc:creator "Nicola Carboni" ;
   dc:publisher "Swiss Art Research Infrastructure, University of Zurich"@en ;
   dc:publisher "Swiss Federal Institute of Technology in Zurich"@en ;
