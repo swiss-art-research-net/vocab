@@ -10,6 +10,10 @@
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#> .
 @prefix crm:   <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix vann: <http://purl.org/vocab/vann/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+
 
 <https://resources.swissartresearch.net/vocab/nationalities>
   dc:title "Vocabulary of occupations in the heritage sectors"@en ;
