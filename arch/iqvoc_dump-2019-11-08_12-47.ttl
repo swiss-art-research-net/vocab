@@ -1,0 +1,52 @@
+@prefix : <https://resources.swissartresearch.net/vocab/arch/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/spec/>.
+@prefix iqvoc: <http://try.iqvoc.net/schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix schema: <https://resources.swissartresearch.net/vocab/arch/schema#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+
+:_17f04342 a skos:Collection;
+           skos:prefLabel "gtaArchives"@en;
+           skos:member :_a2f75340;
+           skos:member :_6d0276b8.
+:_0d51740c a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "test"@en;
+           skos:prefLabel "test"@de;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-06T10:58:02+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-06T10:59:18+00:00"
+].
+:_a2f75340 a skos:Concept;
+           schema:memberOf :_17f04342;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "actorRoleArchitecture"@en;
+           skos:narrower :_6d0276b8;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-07T13:32:36+00:00";
+    dct:creator "Admin Istrator"
+].
+:_6d0276b8 a skos:Concept;
+           schema:memberOf :_17f04342;
+           skos:inScheme :scheme;
+           skos:prefLabel "Architect"@en;
+           skos:prefLabel "Architekt"@de;
+           skos:altLabel "Architektin"@de;
+           skos:broader :_a2f75340;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-07T13:33:45+00:00";
+    dct:creator "Admin Istrator"
+].
