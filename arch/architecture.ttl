@@ -1,0 +1,1165 @@
+@prefix : <https://resources.swissartresearch.net/vocab/arch/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix foaf: <http://xmlns.com/foaf/spec/>.
+@prefix iqvoc: <http://try.iqvoc.net/schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix schema: <https://resources.swissartresearch.net/vocab/arch/schema#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+
+:_17f04342 a skos:Collection;
+           skos:prefLabel "gtaArchives"@en;
+           skos:member :_a2f75340;
+           skos:member :_6d0276b8.
+:_0d51740c a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "test"@en;
+           skos:prefLabel "test"@de;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-06T10:58:02+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-06T10:59:18+00:00"
+].
+:_a2f75340 a skos:Concept;
+           schema:memberOf :_17f04342;
+           skos:inScheme :scheme;
+           skos:prefLabel "actorRoleArchitecture"@en;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-07T13:32:36+00:00";
+    dct:creator "Admin Istrator"
+].
+:_4bed0fb9 a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "projectTypologies"@en;
+           skos:prefLabel "Projekttyp"@de;
+           skos:narrower :_10827e68;
+           skos:narrower :_00fee76a;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:08:15+00:00";
+    dct:creator "Admin Istrator"
+].
+:_10827e68 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Preliminary Project"@en;
+           skos:prefLabel "Vorprojekt"@de;
+           skos:broader :_4bed0fb9;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:09:42+00:00";
+    dct:creator "Admin Istrator"
+].
+:_00fee76a a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Execution Project"@en;
+           skos:prefLabel "Ausführungsprojekt"@de;
+           skos:broader :_4bed0fb9;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:10:36+00:00";
+    dct:creator "Admin Istrator"
+].
+:_d9a5be36 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "unbuilt"@en;
+           skos:prefLabel "nicht gebaut"@de;
+           skos:broader :_688640d3;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:12:14+00:00";
+    dct:creator "Admin Istrator"
+].
+:_3d60f0c1 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "built"@en;
+           skos:prefLabel "gebaut"@de;
+           skos:broader :_688640d3;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:12:52+00:00";
+    dct:creator "Admin Istrator"
+].
+:_37bdf7ce a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "formFindingMethods"@en;
+           skos:prefLabel "Formfindungsmethode"@de;
+           skos:narrower :_127fcdf2;
+           skos:narrower :_0b4526a9;
+           skos:narrower :_6e80cf8d;
+           skos:narrower :_7acef08f;
+           skos:narrower :_0d9c3366;
+           skos:narrower :_d1738769;
+           skos:narrower :_acd4d7cf;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:14:39+00:00";
+    dct:creator "Admin Istrator"
+].
+:_127fcdf2 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "freely-shaped hill"@en;
+           skos:prefLabel "freigeformter Hügel"@de;
+           skos:broader :_37bdf7ce;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:15:22+00:00";
+    dct:creator "Admin Istrator"
+].
+:_0b4526a9 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "pneumatic membrane"@en;
+           skos:prefLabel "pneumatische Membran"@de;
+           skos:broader :_37bdf7ce;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:16:22+00:00";
+    dct:creator "Admin Istrator"
+].
+:_6e80cf8d a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "hanging membrane"@en;
+           skos:prefLabel "hängende Membran"@de;
+           skos:broader :_37bdf7ce;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:17:22+00:00";
+    dct:creator "Admin Istrator"
+].
+:_7acef08f a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "flow form"@en;
+           skos:prefLabel "Fliessform"@de;
+           skos:broader :_37bdf7ce;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:17:57+00:00";
+    dct:creator "Admin Istrator"
+].
+:_0d9c3366 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "geometrical shape"@en;
+           skos:prefLabel "geometrische Form"@de;
+           skos:broader :_37bdf7ce;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:18:26+00:00";
+    dct:creator "Admin Istrator"
+].
+:_d1738769 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "tension form"@en;
+           skos:prefLabel "Zugform"@de;
+           skos:broader :_37bdf7ce;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:19:14+00:00";
+    dct:creator "Admin Istrator"
+].
+:_65101a2c a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "actorRole"@en;
+           skos:prefLabel "Rolle des Akteurs"@de;
+           skos:narrower :_6b4fc863;
+           skos:narrower :_3fe64acb;
+           skos:narrower :_98f1aea2;
+           skos:narrower :_ae24cbaa;
+           skos:narrower :_f8d99ce7;
+           skos:narrower :_20d71950;
+           skos:narrower :_3aeb1141;
+           skos:narrower :_0be691a4;
+           skos:narrower :_45297925;
+           skos:narrower :_6d0276b8;
+           skos:narrower :_76247cd3;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:21:39+00:00";
+    dct:creator "Admin Istrator"
+].
+:_688640d3 a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "projectStatus"@en;
+           skos:prefLabel "projektStatus"@de;
+           skos:narrower :_d9a5be36;
+           skos:narrower :_3d60f0c1;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:11:43+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T14:32:43+00:00"
+].
+:_2591f043 a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "builtWorkStatus"@en;
+           skos:prefLabel "builtWorkStatus"@de;
+           skos:narrower :_99e30cd7;
+           skos:narrower :_14f34693;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:34:20+00:00";
+    dct:creator "Admin Istrator"
+].
+:_99e30cd7 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "standing"@en;
+           skos:prefLabel "bestehend"@de;
+           skos:broader :_2591f043;
+           skos:narrower :_d6d50b5b;
+           skos:narrower :_70538fa1;
+           skos:narrower :_f06af28e;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:35:55+00:00";
+    dct:creator "Admin Istrator"
+].
+:_d6d50b5b a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "refurbished"@en;
+           skos:prefLabel "umgebaut"@de;
+           skos:broader :_99e30cd7;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:36:20+00:00";
+    dct:creator "Admin Istrator"
+].
+:_70538fa1 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "extended"@en;
+           skos:prefLabel "erweitert"@de;
+           skos:broader :_99e30cd7;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:37:16+00:00";
+    dct:creator "Admin Istrator"
+].
+:_f06af28e a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "renovated"@en;
+           skos:prefLabel "renoviert"@de;
+           skos:broader :_99e30cd7;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:37:42+00:00";
+    dct:creator "Admin Istrator"
+].
+:_14f34693 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "demolished"@en;
+           skos:prefLabel "zerstört"@de;
+           skos:broader :_2591f043;
+           skos:narrower :_d255ac8d;
+           skos:narrower :_ce2d65d4;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:38:13+00:00";
+    dct:creator "Admin Istrator"
+].
+:_d255ac8d a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "partly demolished"@en;
+           skos:prefLabel "teilweise zerstört"@de;
+           skos:broader :_14f34693;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:38:45+00:00";
+    dct:creator "Admin Istrator"
+].
+:_ce2d65d4 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "fully demolished"@en;
+           skos:prefLabel "vollständig zerstört"@de;
+           skos:broader :_14f34693;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:39:38+00:00";
+    dct:creator "Admin Istrator"
+].
+:_de54cede a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "buildingTypologies"@en;
+           skos:prefLabel "Gebäudetypologie"@de;
+           skos:narrower :_d9c24336;
+           skos:narrower :_7566e7f1;
+           skos:narrower :_1aeddb75;
+           skos:narrower :_65591363;
+           skos:narrower :_98315071;
+           skos:narrower :_57dac1a5;
+           skos:narrower :_a3f412a9;
+           skos:narrower :_7ce5ae32;
+           skos:narrower :_a2389215;
+           skos:narrower :_b467d2f3;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:52:12+00:00";
+    dct:creator "Admin Istrator"
+].
+:_7b35f78f a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Bunker"@en;
+           skos:prefLabel "Bunker"@de;
+           skos:broader :_57dac1a5;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:54:29+00:00";
+    dct:creator "Admin Istrator"
+].
+:_a3f412a9 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Sport"@en;
+           skos:prefLabel "Sport"@de;
+           skos:broader :_de54cede;
+           skos:narrower :_573a2a31;
+           skos:narrower :_2295fdb9;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:55:03+00:00";
+    dct:creator "Admin Istrator"
+].
+:_573a2a31 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Pool"@en;
+           skos:prefLabel "Schwimmbad"@de;
+           skos:broader :_a3f412a9;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:55:31+00:00";
+    dct:creator "Admin Istrator"
+].
+:_2295fdb9 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Tenniscenter"@en;
+           skos:prefLabel "Tenniscenter"@de;
+           skos:broader :_a3f412a9;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:55:58+00:00";
+    dct:creator "Admin Istrator"
+].
+:_de3fafbb a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Supermarket"@en;
+           skos:prefLabel "Supermarkt"@de;
+           skos:broader :_b467d2f3;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:01:39+00:00";
+    dct:creator "Admin Istrator"
+].
+:_4f31f051 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Depot"@en;
+           skos:prefLabel "Depot"@de;
+           skos:broader :_d9c24336;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:02:47+00:00";
+    dct:creator "Admin Istrator"
+].
+:_6a821eef a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Office"@en;
+           skos:prefLabel "Büro"@de;
+           skos:broader :_7566e7f1;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:07:48+00:00";
+    dct:creator "Admin Istrator"
+].
+:_daa5fd54 a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "physicalFeature"@en;
+           skos:prefLabel "Ausstattungselement"@de;
+           skos:narrower :_e30a28b0;
+           skos:narrower :_a3040975;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:11:57+00:00";
+    dct:creator "Admin Istrator"
+].
+:_a3040975 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Skylight"@en;
+           skos:prefLabel "Oberlicht"@de;
+           skos:broader :_daa5fd54;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:12:32+00:00";
+    dct:creator "Admin Istrator"
+].
+:_5828d50a a skos:Concept;
+           skos:topConceptOf :scheme;
+           skos:inScheme :scheme;
+           skos:prefLabel "shellType"@en;
+           skos:prefLabel "Schalentyp"@de;
+           skos:narrower :_1978c130;
+           skos:narrower :_d6662fec;
+           skos:narrower :_ec74dd78;
+           skos:narrower :_b4a239b4;
+           skos:narrower :_3decfd75;
+           skos:narrower :_63d71985;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:13:05+00:00";
+    dct:creator "Admin Istrator"
+].
+:_6b4fc863 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Project Developers"@en;
+           skos:prefLabel "Projektentwickler"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:24:30+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T14:40:44+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T14:41:14+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:26:44+00:00"
+].
+:_3fe64acb a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Builder"@en;
+           skos:prefLabel "Bauherr"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:25:54+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:27:16+00:00"
+].
+:_98f1aea2 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Model Maker"@en;
+           skos:prefLabel "Modellbauer"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:30:43+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:28:02+00:00"
+].
+:_ae24cbaa a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Building Contractor"@en;
+           skos:prefLabel "Bauunternehmer"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:31:57+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:29:07+00:00"
+].
+:_f8d99ce7 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Subcontractor"@en;
+           skos:prefLabel "Subunternehmer"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:34:19+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:29:50+00:00"
+].
+:_20d71950 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "License Holder"@en;
+           skos:prefLabel "Lizenzinhaber"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:34:57+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:30:40+00:00"
+].
+:_3aeb1141 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Employee"@en;
+           skos:prefLabel "Mitarbeiter"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:36:19+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:32:13+00:00"
+].
+:_0be691a4 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Supplier"@en;
+           skos:prefLabel "Zulieferer"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:23:06+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:35:33+00:00"
+].
+:_45297925 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Consultant"@en;
+           skos:prefLabel "Berater"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T14:24:11+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:36:01+00:00"
+].
+:_a2389215 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Culture"@en;
+           skos:prefLabel "Kultur"@de;
+           skos:broader :_de54cede;
+           skos:narrower :_38d3d5aa;
+           skos:narrower :_8b527e0d;
+           skos:narrower :_b48b5d30;
+           skos:narrower :_6d642ff0;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:44:29+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:39:26+00:00"
+].
+:_38d3d5aa a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Church"@en;
+           skos:prefLabel "Kirche"@de;
+           skos:broader :_a2389215;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:45:10+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T20:49:05+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:39:50+00:00"
+].
+:_8b527e0d a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Monument"@en;
+           skos:prefLabel "Monument"@de;
+           skos:broader :_a2389215;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:45:41+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T20:49:35+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:40:26+00:00"
+].
+:_b48b5d30 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Museum"@en;
+           skos:prefLabel "Museum"@de;
+           skos:broader :_a2389215;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:46:10+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T20:50:08+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:40:52+00:00"
+].
+:_6d642ff0 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Theater"@en;
+           skos:prefLabel "Theater"@de;
+           skos:broader :_a2389215;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:46:43+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T20:50:37+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:41:26+00:00"
+].
+:_7cb4beca a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Car Dealer"@en;
+           skos:prefLabel "Autohaus"@de;
+           skos:broader :_b467d2f3;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:56:56+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:42:18+00:00"
+].
+:_b467d2f3 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Sale"@en;
+           skos:prefLabel "Verkauf"@de;
+           skos:narrower :_de3fafbb;
+           skos:narrower :_7cb4beca;
+           skos:broader :_de54cede;
+           skos:narrower :_684083b4;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:56:27+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:43:00+00:00"
+].
+:_684083b4 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Garden Center"@en;
+           skos:prefLabel "Gartencenter"@de;
+           skos:broader :_b467d2f3;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:01:11+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:43:28+00:00"
+].
+:_76cbabec a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Service Station"@en;
+           skos:prefLabel "Raststätte"@de;
+           skos:broader :_d9c24336;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:03:26+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-09T15:04:27+00:00"
+].
+:_d9c24336 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Transport"@en;
+           skos:prefLabel "Verkehr"@de;
+           skos:narrower :_76cbabec;
+           skos:narrower :_4f31f051;
+           skos:broader :_de54cede;
+           skos:narrower :_c3716c80;
+           skos:narrower :_7d31e886;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:02:20+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-09T15:06:13+00:00"
+].
+:_c3716c80 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Gas Station"@en;
+           skos:prefLabel "Tankstelle"@de;
+           skos:broader :_d9c24336;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:04:09+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-09T15:06:50+00:00"
+].
+:_7d31e886 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Garage"@en;
+           skos:prefLabel "Werkstatt"@de;
+           skos:broader :_d9c24336;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:32:47+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:05:50+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:06:53+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-09T15:07:32+00:00"
+].
+:_7566e7f1 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Administration"@en;
+           skos:prefLabel "Verwaltung"@de;
+           skos:narrower :_6a821eef;
+           skos:broader :_de54cede;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:07:15+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-09T15:08:08+00:00"
+].
+:_1aeddb75 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Habitation"@en;
+           skos:prefLabel "Wohnen"@de;
+           skos:broader :_de54cede;
+           skos:narrower :_4e129c4a;
+           skos:narrower :_9a95b191;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:08:53+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-09T15:09:05+00:00"
+].
+:_4e129c4a a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Settlement"@en;
+           skos:prefLabel "Siedlung"@de;
+           skos:broader :_1aeddb75;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:09:33+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-09T15:09:46+00:00"
+].
+:_9a95b191 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Residential Building"@en;
+           skos:prefLabel "Wohnhaus"@de;
+           skos:broader :_1aeddb75;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:10:50+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-09T15:10:13+00:00"
+].
+:_98315071 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Logistic"@en;
+           skos:prefLabel "Logistik"@de;
+           skos:broader :_de54cede;
+           skos:narrower :_914a6902;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:51:07+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:03:01+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:03:38+00:00"
+].
+:_914a6902 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Distribution Center"@en;
+           skos:prefLabel "Verteilzentrum"@de;
+           skos:broader :_98315071;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:52:00+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:06:10+00:00"
+].
+:_57dac1a5 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Military"@en;
+           skos:prefLabel "Militär"@de;
+           skos:narrower :_7b35f78f;
+           skos:broader :_de54cede;
+           skos:narrower :_99ec2d6d;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:52:34+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:06:50+00:00"
+].
+:_99ec2d6d a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Climate Chamber"@en;
+           skos:prefLabel "Klimakammer"@de;
+           skos:broader :_57dac1a5;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:53:32+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:09:09+00:00"
+].
+:_7ce5ae32 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Industry"@en;
+           skos:prefLabel "Industrie"@de;
+           skos:narrower :_aa03dae7;
+           skos:narrower :_38f0a546;
+           skos:narrower :_0d2b5b71;
+           skos:broader :_de54cede;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:28:43+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T20:30:42+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:09:41+00:00"
+].
+:_aa03dae7 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Laboratory"@en;
+           skos:prefLabel "Laboratorium"@de;
+           skos:broader :_7ce5ae32;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:29:24+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:12:14+00:00"
+].
+:_38f0a546 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Camp"@en;
+           skos:prefLabel "Lager"@de;
+           skos:broader :_7ce5ae32;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:31:47+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:12:40+00:00"
+].
+:_0d2b5b71 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Production"@en;
+           skos:prefLabel "Produktion"@de;
+           skos:broader :_7ce5ae32;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:32:18+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:13:46+00:00"
+].
+:_65591363 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Infrastructure"@en;
+           skos:prefLabel "Infrastruktur"@de;
+           skos:broader :_de54cede;
+           skos:narrower :_3240c341;
+           skos:narrower :_4314475a;
+           skos:narrower :_f2108a55;
+           skos:narrower :_b33a94b7;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:33:30+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:14:35+00:00"
+].
+:_3240c341 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Bridge"@en;
+           skos:prefLabel "Brücke"@de;
+           skos:broader :_65591363;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:34:13+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:15:41+00:00"
+].
+:_4314475a a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Sewage Plant"@en;
+           skos:prefLabel "Kläranlage"@de;
+           skos:broader :_65591363;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:34:40+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:16:18+00:00"
+].
+:_f2108a55 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Power Plant"@en;
+           skos:prefLabel "Kraftwerk"@de;
+           skos:broader :_65591363;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:35:33+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:17:06+00:00"
+].
+:_b33a94b7 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Road Building"@en;
+           skos:prefLabel "Strassenbauwerk"@de;
+           skos:broader :_65591363;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T20:36:00+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:19:33+00:00"
+].
+:_1978c130 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Humpback shell"@en;
+           skos:prefLabel "Buckelschale"@de;
+           skos:broader :_5828d50a;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:14:07+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:22:04+00:00"
+].
+:_d6662fec a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "HIB-Shell"@en;
+           skos:prefLabel "HIB-Schale"@de;
+           skos:broader :_5828d50a;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:15:12+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:24:28+00:00"
+].
+:_ec74dd78 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Freeform"@en;
+           skos:prefLabel "Freiform"@de;
+           skos:broader :_5828d50a;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:15:52+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:25:03+00:00"
+].
+:_b4a239b4 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Balloon Shape"@en;
+           skos:prefLabel "Ballonform"@de;
+           skos:broader :_5828d50a;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:16:13+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:26:24+00:00"
+].
+:_3decfd75 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Cassette"@en;
+           skos:prefLabel "Kassette"@de;
+           skos:broader :_5828d50a;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T21:18:11+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-10T10:27:18+00:00"
+].
+:_e30a28b0 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Anchorage"@en;
+           skos:prefLabel "Anker"@de;
+           skos:broader :_daa5fd54;
+           skos:changeNote [
+    rdfs:comment "Initiale Version"@de;
+    dct:created "2019-11-11T08:22:13+00:00";
+    dct:creator "Admin Istrator"
+].
+:_acd4d7cf a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "post-form (form finding methods)"@en;
+           skos:prefLabel "Stempelform (Formfindungsmethode)"@de;
+           skos:broader :_37bdf7ce;
+           skos:related :_63d71985;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:19:54+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-11T08:41:53+00:00"
+].
+:_63d71985 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "post-form (shell type)"@en;
+           skos:prefLabel "Stempelform (Schalentyp)"@de;
+           skos:broader :_5828d50a;
+           skos:related :_acd4d7cf;
+           skos:changeNote [
+    rdfs:comment "Initiale Version"@de;
+    dct:created "2019-11-11T08:45:00+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:editorialNote "used to differentiate from \"Stempelform\" (Formfindungsmethode)"@en.
+:_6d0276b8 a skos:Concept;
+           schema:memberOf :_17f04342;
+           skos:inScheme :scheme;
+           skos:prefLabel "Architect"@en;
+           skos:prefLabel "Architekt"@de;
+           skos:altLabel "Architektin"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-07T13:33:45+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T14:22:20+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-11T09:02:07+00:00"
+].
+:_76247cd3 a skos:Concept;
+           skos:inScheme :scheme;
+           skos:prefLabel "Engineer"@en;
+           skos:prefLabel "Ingenieur"@de;
+           skos:broader :_65101a2c;
+           skos:changeNote [
+    rdfs:comment "initial version"@en;
+    dct:created "2019-11-08T13:30:16+00:00";
+    dct:creator "Admin Istrator"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T14:19:42+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-08T21:33:22+00:00"
+];
+           skos:changeNote [
+    dct:creator "Admin Istrator";
+    dct:modified "2019-11-11T09:03:27+00:00"
+].
