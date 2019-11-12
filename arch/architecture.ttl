@@ -13,19 +13,7 @@
            skos:prefLabel "gtaArchives"@en;
            skos:member :_a2f75340;
            skos:member :_6d0276b8.
-:_0d51740c a skos:Concept;
-           skos:inScheme :scheme;
-           skos:prefLabel "test"@en;
-           skos:prefLabel "test"@de;
-           skos:changeNote [
-    rdfs:comment "initial version"@en;
-    dct:created "2019-11-06T10:58:02+00:00";
-    dct:creator "Admin Istrator"
-];
-           skos:changeNote [
-    dct:creator "Admin Istrator";
-    dct:modified "2019-11-06T10:59:18+00:00"
-].
+
 :_a2f75340 a skos:Concept;
            schema:memberOf :_17f04342;
            skos:inScheme :scheme;
@@ -33,7 +21,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-07T13:32:36+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_4bed0fb9 a skos:Concept;
            skos:topConceptOf :scheme;
@@ -45,7 +33,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:08:15+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_10827e68 a skos:Concept;
            skos:inScheme :scheme;
@@ -55,7 +43,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:09:42+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_00fee76a a skos:Concept;
            skos:inScheme :scheme;
@@ -65,7 +53,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:10:36+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_d9a5be36 a skos:Concept;
            skos:inScheme :scheme;
@@ -75,7 +63,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:12:14+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_3d60f0c1 a skos:Concept;
            skos:inScheme :scheme;
@@ -85,7 +73,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:12:52+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_37bdf7ce a skos:Concept;
            skos:topConceptOf :scheme;
@@ -102,7 +90,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:14:39+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_127fcdf2 a skos:Concept;
            skos:inScheme :scheme;
@@ -112,7 +100,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:15:22+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_0b4526a9 a skos:Concept;
            skos:inScheme :scheme;
@@ -122,7 +110,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:16:22+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_6e80cf8d a skos:Concept;
            skos:inScheme :scheme;
@@ -132,7 +120,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:17:22+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_7acef08f a skos:Concept;
            skos:inScheme :scheme;
@@ -142,7 +130,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:17:57+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_0d9c3366 a skos:Concept;
            skos:inScheme :scheme;
@@ -152,7 +140,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:18:26+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_d1738769 a skos:Concept;
            skos:inScheme :scheme;
@@ -162,7 +150,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:19:14+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_65101a2c a skos:Concept;
            skos:topConceptOf :scheme;
@@ -183,7 +171,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:21:39+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_688640d3 a skos:Concept;
            skos:topConceptOf :scheme;
@@ -195,10 +183,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:11:43+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T14:32:43+00:00"
 ].
 :_2591f043 a skos:Concept;
@@ -211,7 +199,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:34:20+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_99e30cd7 a skos:Concept;
            skos:inScheme :scheme;
@@ -224,7 +212,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:35:55+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_d6d50b5b a skos:Concept;
            skos:inScheme :scheme;
@@ -234,7 +222,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:36:20+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_70538fa1 a skos:Concept;
            skos:inScheme :scheme;
@@ -244,7 +232,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:37:16+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_f06af28e a skos:Concept;
            skos:inScheme :scheme;
@@ -254,7 +242,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:37:42+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_14f34693 a skos:Concept;
            skos:inScheme :scheme;
@@ -266,7 +254,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:38:13+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_d255ac8d a skos:Concept;
            skos:inScheme :scheme;
@@ -276,7 +264,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:38:45+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_ce2d65d4 a skos:Concept;
            skos:inScheme :scheme;
@@ -286,7 +274,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:39:38+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_de54cede a skos:Concept;
            skos:topConceptOf :scheme;
@@ -306,7 +294,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:52:12+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_7b35f78f a skos:Concept;
            skos:inScheme :scheme;
@@ -316,7 +304,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:54:29+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_a3f412a9 a skos:Concept;
            skos:inScheme :scheme;
@@ -328,7 +316,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:55:03+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_573a2a31 a skos:Concept;
            skos:inScheme :scheme;
@@ -338,7 +326,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:55:31+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_2295fdb9 a skos:Concept;
            skos:inScheme :scheme;
@@ -348,7 +336,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:55:58+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_de3fafbb a skos:Concept;
            skos:inScheme :scheme;
@@ -358,7 +346,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:01:39+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_4f31f051 a skos:Concept;
            skos:inScheme :scheme;
@@ -368,7 +356,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:02:47+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_6a821eef a skos:Concept;
            skos:inScheme :scheme;
@@ -378,7 +366,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:07:48+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_daa5fd54 a skos:Concept;
            skos:topConceptOf :scheme;
@@ -390,7 +378,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:11:57+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_a3040975 a skos:Concept;
            skos:inScheme :scheme;
@@ -400,7 +388,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:12:32+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_5828d50a a skos:Concept;
            skos:topConceptOf :scheme;
@@ -416,7 +404,7 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:13:05+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_6b4fc863 a skos:Concept;
            skos:inScheme :scheme;
@@ -426,18 +414,18 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:24:30+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T14:40:44+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T14:41:14+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:26:44+00:00"
 ].
 :_3fe64acb a skos:Concept;
@@ -448,10 +436,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:25:54+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:27:16+00:00"
 ].
 :_98f1aea2 a skos:Concept;
@@ -462,10 +450,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:30:43+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:28:02+00:00"
 ].
 :_ae24cbaa a skos:Concept;
@@ -476,10 +464,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:31:57+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:29:07+00:00"
 ].
 :_f8d99ce7 a skos:Concept;
@@ -490,10 +478,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:34:19+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:29:50+00:00"
 ].
 :_20d71950 a skos:Concept;
@@ -504,10 +492,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:34:57+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:30:40+00:00"
 ].
 :_3aeb1141 a skos:Concept;
@@ -518,10 +506,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:36:19+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:32:13+00:00"
 ].
 :_0be691a4 a skos:Concept;
@@ -532,10 +520,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:23:06+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:35:33+00:00"
 ].
 :_45297925 a skos:Concept;
@@ -546,10 +534,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T14:24:11+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:36:01+00:00"
 ].
 :_a2389215 a skos:Concept;
@@ -564,10 +552,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:44:29+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:39:26+00:00"
 ].
 :_38d3d5aa a skos:Concept;
@@ -578,14 +566,14 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:45:10+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T20:49:05+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:39:50+00:00"
 ].
 :_8b527e0d a skos:Concept;
@@ -596,14 +584,14 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:45:41+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T20:49:35+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:40:26+00:00"
 ].
 :_b48b5d30 a skos:Concept;
@@ -614,14 +602,14 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:46:10+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T20:50:08+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:40:52+00:00"
 ].
 :_6d642ff0 a skos:Concept;
@@ -632,14 +620,14 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:46:43+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T20:50:37+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:41:26+00:00"
 ].
 :_7cb4beca a skos:Concept;
@@ -650,10 +638,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:56:56+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:42:18+00:00"
 ].
 :_b467d2f3 a skos:Concept;
@@ -667,10 +655,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:56:27+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:43:00+00:00"
 ].
 :_684083b4 a skos:Concept;
@@ -681,10 +669,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:01:11+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:43:28+00:00"
 ].
 :_76cbabec a skos:Concept;
@@ -695,10 +683,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:03:26+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-09T15:04:27+00:00"
 ].
 :_d9c24336 a skos:Concept;
@@ -713,10 +701,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:02:20+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-09T15:06:13+00:00"
 ].
 :_c3716c80 a skos:Concept;
@@ -727,10 +715,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:04:09+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-09T15:06:50+00:00"
 ].
 :_7d31e886 a skos:Concept;
@@ -741,18 +729,18 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:32:47+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:05:50+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:06:53+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-09T15:07:32+00:00"
 ].
 :_7566e7f1 a skos:Concept;
@@ -764,10 +752,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:07:15+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-09T15:08:08+00:00"
 ].
 :_1aeddb75 a skos:Concept;
@@ -780,10 +768,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:08:53+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-09T15:09:05+00:00"
 ].
 :_4e129c4a a skos:Concept;
@@ -794,10 +782,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:09:33+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-09T15:09:46+00:00"
 ].
 :_9a95b191 a skos:Concept;
@@ -808,10 +796,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:10:50+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-09T15:10:13+00:00"
 ].
 :_98315071 a skos:Concept;
@@ -823,14 +811,14 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:51:07+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:03:01+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:03:38+00:00"
 ].
 :_914a6902 a skos:Concept;
@@ -841,10 +829,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:52:00+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:06:10+00:00"
 ].
 :_57dac1a5 a skos:Concept;
@@ -857,10 +845,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:52:34+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:06:50+00:00"
 ].
 :_99ec2d6d a skos:Concept;
@@ -871,10 +859,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:53:32+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:09:09+00:00"
 ].
 :_7ce5ae32 a skos:Concept;
@@ -888,14 +876,14 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:28:43+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T20:30:42+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:09:41+00:00"
 ].
 :_aa03dae7 a skos:Concept;
@@ -906,10 +894,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:29:24+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:12:14+00:00"
 ].
 :_38f0a546 a skos:Concept;
@@ -920,10 +908,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:31:47+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:12:40+00:00"
 ].
 :_0d2b5b71 a skos:Concept;
@@ -934,10 +922,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:32:18+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:13:46+00:00"
 ].
 :_65591363 a skos:Concept;
@@ -952,10 +940,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:33:30+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:14:35+00:00"
 ].
 :_3240c341 a skos:Concept;
@@ -966,10 +954,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:34:13+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:15:41+00:00"
 ].
 :_4314475a a skos:Concept;
@@ -980,10 +968,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:34:40+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:16:18+00:00"
 ].
 :_f2108a55 a skos:Concept;
@@ -994,10 +982,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:35:33+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:17:06+00:00"
 ].
 :_b33a94b7 a skos:Concept;
@@ -1008,10 +996,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T20:36:00+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:19:33+00:00"
 ].
 :_1978c130 a skos:Concept;
@@ -1022,10 +1010,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:14:07+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:22:04+00:00"
 ].
 :_d6662fec a skos:Concept;
@@ -1036,10 +1024,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:15:12+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:24:28+00:00"
 ].
 :_ec74dd78 a skos:Concept;
@@ -1050,10 +1038,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:15:52+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:25:03+00:00"
 ].
 :_b4a239b4 a skos:Concept;
@@ -1064,10 +1052,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:16:13+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:26:24+00:00"
 ].
 :_3decfd75 a skos:Concept;
@@ -1078,10 +1066,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T21:18:11+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-10T10:27:18+00:00"
 ].
 :_e30a28b0 a skos:Concept;
@@ -1092,7 +1080,7 @@
            skos:changeNote [
     rdfs:comment "Initiale Version"@de;
     dct:created "2019-11-11T08:22:13+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ].
 :_acd4d7cf a skos:Concept;
            skos:inScheme :scheme;
@@ -1103,10 +1091,10 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:19:54+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-11T08:41:53+00:00"
 ].
 :_63d71985 a skos:Concept;
@@ -1118,7 +1106,7 @@
            skos:changeNote [
     rdfs:comment "Initiale Version"@de;
     dct:created "2019-11-11T08:45:00+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:editorialNote "used to differentiate from \"Stempelform\" (Formfindungsmethode)"@en.
 :_6d0276b8 a skos:Concept;
@@ -1131,14 +1119,14 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-07T13:33:45+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T14:22:20+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-11T09:02:07+00:00"
 ].
 :_76247cd3 a skos:Concept;
@@ -1149,17 +1137,17 @@
            skos:changeNote [
     rdfs:comment "initial version"@en;
     dct:created "2019-11-08T13:30:16+00:00";
-    dct:creator "Admin Istrator"
+    dct:creator "Matteo Lorenzini"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T14:19:42+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-08T21:33:22+00:00"
 ];
            skos:changeNote [
-    dct:creator "Admin Istrator";
+    dct:creator "Matteo Lorenzini";
     dct:modified "2019-11-11T09:03:27+00:00"
 ].
