@@ -55,13 +55,13 @@ Each term is linked with the corresponding one present (when available) from the
 
 The occupation and nationalities vocabularies are Semantic Web ready and modelled in RDF using both the [Ontolex](https://www.w3.org/2016/05/ontolex) and [Lexinfo](https://lexinfo.net/) ontologies. A graphic model of the mapping is available below in figure 1
 
-![**Figure 1**](https://workspace.digitale-diathek.net/confluence/rest/gliffy/1.0/embeddedDiagrams/ea8df865-2778-4b49-850a-bdbf437db060.png)
+![**Figure 1**](https://workspace.digitale-diathek.net/confluence/rest/gliffy/1.0/embeddedDiagrams/f732fdb8-b329-4072-a1b6-21c84bc12817.png)
 
 
 The main entity (e.g. sari:2CF4DA9C-69DF-46DA-89CC-CE96BCA21716) are described as `crm:E55_Type`, `skos:Concept` and `ontolex:lexicalConcept` and linked with `ontolex:LexicalEntry` in German and English.
 Each `ontolex:LexicalEntry` is linked using `ontolex:lexicalForm` with a `ontolex:Form` identified by a gender, a number, and by a `ontolex:writtenRep`.     
 
-Preferred forms in both English and German are identified at both the root level using `skosxl:prefLabel` as well as in the `ontolex:LexicalEntry` level using the property `ontolex:canonicalForm`. Moreover, for practical reason, each `ontolex:LexicalEntry` describe also the preferred label of that entry using `rdfs:label`.     
+Preferred forms in both English and German are identified at both the root level using `skosxl:prefLabel` as well as in the `ontolex:LexicalEntry` level using the property `ontolex:lexicalForm`. Moreover, for practical reason, each `ontolex:LexicalEntry` describe also the preferred label of that entry using `skos:prefLabel`.     
 
 Language are decoded using both the language tags in the labels as well as with the link to [glottolog.org](https://glottolog.org)
 
