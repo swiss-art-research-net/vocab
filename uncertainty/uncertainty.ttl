@@ -10,24 +10,24 @@
 sari:Incomplete  a       skos:Concept , crm:E55_Type ;
         skos:definition  "The value of an attribute is unknown but discoverable."@en ;
         skos:example     "A person is born on '01-01-1201'. We do not know his name."@en ;
-        skos:prefLabel   "Incomplet"@fr , "Incompleto"@it , "Incomplete"@en .
+        skos:prefLabel   "Unvollständig"@de , "Incomplet"@fr , "Incompleto"@it , "Incomplete"@en .
 
 sari:Inconsistent  a     skos:Concept , crm:E55_Type ;
         skos:definition  "More than one value is present and they are inconsistent with each other."@en ;
         skos:example     "the birth of a person happened on the '01-01-1201' OR on the '02-01-1201'"@en ;
-        skos:prefLabel   "Contradictoire"@fr , "Discordante"@it , "Inconsistent"@en .
+        skos:prefLabel   "Inkonsistent"@de , "Contradictoire"@fr , "Discordante"@it , "Inconsistent"@en .
 
 sari:Vague  a            skos:Concept , crm:E55_Type ;
         skos:definition  "Situation in which the value of an attribute lack ontological precision."@en ;
         skos:example     "simon is young"@en ;
-        skos:prefLabel   "Vague"@fr , "Vago"@it , "Vague"@en .
+        skos:prefLabel   "Ungefähr"@de , "Vague"@fr , "Vago"@it , "Vague"@en .
 
 sari:Uncertain  a        skos:Concept , crm:E55_Type ;
         skos:definition  "Lack of available information about the state of the world for determining if a classical statement (which can only be true or false) is actually true or false."@en ;
         skos:exactMatch  "https://www.wikidata.org/wiki/Q13649246"^^xsd:anyURI ;
-        skos:prefLabel   "Incertain"@fr , "Incerto"@it , "Uncertain"@en .
+        skos:prefLabel   "Unsicher"@de, "Incertain"@fr , "Incerto"@it , "Uncertain"@en .
 
 sari:Imprecise  a        skos:Concept , crm:E55_Type ;
         skos:definition  "The value presented are not precise, but can be verified and can be true or false."@en ;
         skos:example     "The birth of a person is between '01-01-1201' and '31-12-1201'"@en ;
-        skos:prefLabel   "Imprécis"@fr , "Impreciso"@it , "Imprecise"@en .
+        skos:prefLabel   "Ungenau"@de , "Imprécis"@fr , "Impreciso"@it , "Imprecise"@en .
